@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" width="220" height=auto; />
+    <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" width="200" height=auto; />
   </a>
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
@@ -19,15 +19,14 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>🌱 I’m currently learning <strong>C, C++, Python, HTML</strong>.</li>
   <li>📝 I regularly post my repositories on <a href="https://github.com/tun784">Here</a>.</li>
-  <li>📫 Message me on Telegram: <strong><a href="t.me/TunToMo">Here</a></strong>.</li>
+  <li>📫 Message me on Telegram: <strong>Here</strong>.</li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Languages and tools that I learnt:</h3>
-<p align="left">
+<h3 align="center">Languages and tools that I learnt</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -41,19 +40,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Connect for works:</h3>
-<p align="left">
+<h3 align="center">Social Networks</h3>
+<p align="center">
   <a href="https://linkedin.com/in/tuannh87" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="40" width="60" />
   </a>
   <a href="https://www.youtube.com/c/đồngchíđônglào" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="đồngchíđônglào" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="đồngchíđônglào" height="40" width="60" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Donate Me:</h3>
+<h3 align="center">Donate Me</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/tuntomo">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tuntomo" />
@@ -67,18 +66,14 @@
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Developer;I'm+a+Student" width="700" height=auto;></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&show_icons=true&theme=highcontrast&title_color=ff3333&text_color=f8f7f7&locale=en&layout=compact" alt="tun784" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=highcontrast&title_color=ddfa00&text_color=ffffff&hide_border=true&locale=en" alt="tun784" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=highcontrast" alt="tun784" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&show_icons=true&theme=highcontrast&title_color=ff3333&text_color=f8f7f7&locale=en&layout=compact" alt="tun784" width="400" height="300";/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tun784/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tun784" alt="tun784" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=highcontrast&title_color=ddfa00&text_color=ffffff&hide_border=true&locale=en" alt="tun784" width="400" height="300";/>
+</p>
+
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=highcontrast" alt="tun784" width="400" height=auto;/>
 </p>
