@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C/C++, Python, OPP**
 
-- 📫 How to reach me **thudientu782004@gmail.com**
+- 📫 How to reach me **linkedin.com/in/tuannh87**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
