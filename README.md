@@ -3,7 +3,7 @@
 
 <p align="right"> 
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" style="width: 200%; margin-right: 0;" />
+    <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" style="width: 100%; margin-right: 0;" />
   </a> 
 </p>
 
