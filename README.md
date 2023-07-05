@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tứn Tò Mò</h1>
 <h3 align="center">A second-year student from Vietnam</h3>
 
-<p align="left"> <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" />
-</a> </p>
+<p align="right"> 
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" style="width: 200%; margin-right: 0;" />
+  </a> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
