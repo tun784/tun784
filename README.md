@@ -20,8 +20,8 @@
 <h3 align="left">About Me:</h3>
 <ul>
   <li>🌱 I’m currently learning <strong>C/C++, Python, OPP</strong></li>
-  <li>📝 I regularly post my repositories on <a href="https://github.com/tun784">github.com/tun784</a></li>
-  <li>📫 Contact for work: <strong><a href="https://mail.google.com">thudientu782004@gmail.com</a></strong></li>
+  <li>📝 I regularly post my repositories on <a href="https://github.com/tun784">Here</a>.</li>
+  <li>📫 Message me on Telegram: <strong><a href="t.me/TunToMo">Here</a></strong>.</li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -41,7 +41,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect for works:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/tuannh87" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="30" width="40" />
