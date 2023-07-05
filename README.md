@@ -40,10 +40,10 @@
 <h3 align="center">Social Networks</h3>
 <p align="center">
   <a href="https://linkedin.com/in/tuannh87" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="3%" width="3%" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="30" width="35" />
   </a>
   <a href="https://www.youtube.com/c/đồngchíđônglào" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="đồngchíđônglào" height="3%" width="3%" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="đồngchíđônglào" height="30" width="35" />
   </a>
 </p>
 
@@ -52,10 +52,10 @@
 <h3 align="center">Donate Me</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/tuntomo">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tuntomo" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="5%" width="18%" alt="tuntomo" />
   </a>
   <a href="https://ko-fi.com/tuntomo">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tuntomo" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="5%" width="18%" alt="tuntomo" />
   </a>
 </p>
 
@@ -64,10 +64,11 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Developer;I'm+a+Student" width="700" height=auto;></p>
 
 <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=highcontrast&title_color=ddfa00&text_color=ffffff&locale=en" alt="tun784" />
-  <img width="47%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=highcontrast" alt="tun784" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=highcontrast&title_color=ddfa00&text_color=ffffff&locale=en" alt="tun784" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=highcontrast" alt="tun784" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&show_icons=true&theme=highcontrast&title_color=ff3333&text_color=f8f7f7&locale=en&layout=compact" alt="tun784" />
+<p align="center">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=dracula" alt="tun784" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="49%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=5" alt="tun784" /></a>
 </p>
