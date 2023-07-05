@@ -9,10 +9,7 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" width="200" height=auto; />
-  </a>
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+    <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" width="20%" height="10%"; />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -28,13 +25,13 @@
 <h3 align="center">Languages and tools that I learnt</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="4%" height="4%"/>
   </a>
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="4%" height="4%"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="4%" height="4%"/>
   </a>
 </p>
 
@@ -43,10 +40,10 @@
 <h3 align="center">Social Networks</h3>
 <p align="center">
   <a href="https://linkedin.com/in/tuannh87" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="40" width="60" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="3%" width="3%" />
   </a>
   <a href="https://www.youtube.com/c/đồngchíđônglào" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="đồngchíđônglào" height="40" width="60" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="đồngchíđônglào" height="3%" width="3%" />
   </a>
 </p>
 
@@ -66,14 +63,11 @@
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Developer;I'm+a+Student" width="700" height=auto;></p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&show_icons=true&theme=highcontrast&title_color=ff3333&text_color=f8f7f7&locale=en&layout=compact" alt="tun784" width="400" height="300";/>
+<p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=highcontrast&title_color=ddfa00&text_color=ffffff&locale=en" alt="tun784" />
+  <img width="47%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=highcontrast" alt="tun784" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=highcontrast&title_color=ddfa00&text_color=ffffff&hide_border=true&locale=en" alt="tun784" width="400" height="300";/>
-</p>
-
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=highcontrast" alt="tun784" width="400" height=auto;/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&show_icons=true&theme=highcontrast&title_color=ff3333&text_color=f8f7f7&locale=en&layout=compact" alt="tun784" />
 </p>
