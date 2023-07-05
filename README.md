@@ -19,7 +19,7 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>🌱 I’m currently learning <strong>C/C++, Python, OPP</strong></li>
+  <li>🌱 I’m currently learning <strong>C, C++, Python, HTML</strong>.</li>
   <li>📝 I regularly post my repositories on <a href="https://github.com/tun784">Here</a>.</li>
   <li>📫 Message me on Telegram: <strong><a href="t.me/TunToMo">Here</a></strong>.</li>
 </ul>
