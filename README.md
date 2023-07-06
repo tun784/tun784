@@ -78,16 +78,27 @@
 </p>
 
 <div align="center">
-    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&theme=tokyonight)
+    <p>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=tokyonight" alt="tun784">
+    </p>
 </div>
 
 <div align="center">
-    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=dracula)
-    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=dracula)
+    <p>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&amp;theme=dracula" alt="tun784">
+    </p>
+    <p>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&amp;theme=dracula" alt="tun784">
+    </p>
 </div>
+
 <div align="center">
-    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=dracula)
-    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&theme=dracula&utcOffset=8)
+    <p>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=dracula" alt="tun784">
+    </p>
+    <p>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=dracula&amp;utcOffset=8" alt="tun784">
+    </p>
 </div>
 
 <p dir="auto">
