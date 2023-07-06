@@ -34,7 +34,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=6000&color=03F3FF&center=true&width=2000&lines=Languages+and+tools+that+I+learned">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=6000&color=03F3FF&center=true&width=600&lines=Languages+and+tools+that+I+learned">
 </p>
 
 <p align="center">
