@@ -63,31 +63,30 @@
 <p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+a+second-year+student;I'm+a+Junior+Developer;Statistics" width="700" height=auto;></p>
 
 <p align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
-</p>
-
-<p align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=blueberry" alt="tun784" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="49%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=5" alt="tun784" /></a>
-</p>
-
-<p align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="tun784" width="100%">
 </p>
 
 
+
 <p align="center">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=noctis_minimus" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&amp;theme=ayu_mirage" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&amp;theme=noctis_minimus" alt="tun784">
     </p>
     
 <p align="center">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&amp;theme=discord_old_blurple" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&amp;theme=gruvbox" alt="tun784">
 </p>
 
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
+    <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
+</p>
 
+<p align="center">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=tokyonight" alt="tun784" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="49%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=5" alt="tun784" /></a>
+</p>
 
 <p dir="auto" align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
