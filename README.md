@@ -92,8 +92,8 @@
 </p>
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
-    <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
 </p>
 
 <p align="center">
