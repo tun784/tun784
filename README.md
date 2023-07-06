@@ -84,7 +84,7 @@
     
 <p align="center">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=dracula" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=dracula&amp;utcOffset=8" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=cobalt&amp;utcOffset=8" alt="tun784">
 </p>
 
 
