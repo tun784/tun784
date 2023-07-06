@@ -109,7 +109,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF">
+<p align="center" color="#03F3FF">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=300&height=47&lines=🌐+Social+networks">
 </p>
 
@@ -126,7 +126,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF">
+<p align="center" color="#03F3FF">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=3500&center=true&width=250&height=45&lines=Donate+me!;Support+me!"></p>
 
 <p align="center">
