@@ -109,18 +109,18 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="49%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=5" alt="tun784" /></a>
 </p>
 
-<p align="center">
+<div align="center">
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&theme=tokyonight)
-</p>
+</div>
 
-<p>
+<div align="center">
     ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=dracula)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=dracula)
-</p>
-<p>
+</div>
+<div align="center">
     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=dracula)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&theme=dracula&utcOffset=8)
-</p>
+</div>
 
 <p dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
