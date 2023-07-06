@@ -1,7 +1,7 @@
 <div align="center" id="badges">
     <br>
     <p id="header" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=500&lines=Hello+world!;I'm+a+second-year+student;Great+to+see+you+here!;%3C3"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+a+second-year+student;Great+to+meet+you+here!;Thank+you+%3C3"/>
     </p> 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,7 +14,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">About Me:</h3>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=About+Me" width="500" height=auto;></p>
 <ul>
   <li>📝 I regularly post my repositories on <a href="https://github.com/tun784">Here</a>.</li>
   <li>📫 Message me on Telegram: <strong>Here</strong>.</li>
@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Languages and tools that I learnt</h3>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Languages+and+tools+that+I+learnt" width="500" height=auto;></p>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="4%" height="4%"/>
@@ -37,7 +37,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Social Networks</h3>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Contact+for+works+!" width="500" height=auto;></p>
 <p align="center">
   <a href="https://linkedin.com/in/tuannh87" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="30" width="35" />
@@ -49,7 +49,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Donate Me</h3>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Donate+me+!;Support+me+!" width="500" height=auto;></p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/tuntomo">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="5%" width="18%" alt="tuntomo" />
