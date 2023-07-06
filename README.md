@@ -76,8 +76,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="30" width="35" />
   </a>
     -->
-  <a href="https://www.youtube.com/c/đồngchíđônglào" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="đồngchíđônglào" height="30" width="35" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VietnameseComrade" height="30" width="35" />
   </a>
 </p>
 
