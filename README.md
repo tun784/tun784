@@ -127,6 +127,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#03F3FF">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=3500&center=true&width=250&height=45&lines=Donate+me!;Support+me!"></p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tuntomo">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="tuntomo" />
+  </a>
+  <a href="https://ko-fi.com/tuntomo">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="tuntomo" />
+  </a>
+</p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center" color="#03F3FF">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=300&height=47&lines=🌐+Social+networks">
 </p>
 
@@ -138,19 +154,5 @@
     -->
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VietnameseComrade" height="30" width="35" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center" color="#03F3FF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=3500&center=true&width=250&height=45&lines=Donate+me!;Support+me!"></p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tuntomo">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="tuntomo" />
-  </a>
-  <a href="https://ko-fi.com/tuntomo">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="tuntomo" />
   </a>
 </p>
