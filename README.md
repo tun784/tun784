@@ -18,7 +18,7 @@
   <li>📫 Message me <strong>here</strong>.</li>
 </ul>
 
-<p align="right">
+<p align="right" style="direction: rtl;">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=320&height=45&lines=🡻+Social+networks+🡻"/>
 </p>
 
