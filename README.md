@@ -73,18 +73,18 @@
 </p>
 
 <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord-dark" alt="tun784" width="100%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="tun784" width="100%">
 </p>
 
 
 <p align="center">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=aura_dark" alt="tun784"
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&amp;theme=dracula" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=noctis_minimus" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&amp;theme=ayu_mirage" alt="tun784">
     </p>
     
 <p align="center">
-        ><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&amp;theme=dracula" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&amp;theme=discord_old_blurple" alt="tun784">
 </p>
 
 
