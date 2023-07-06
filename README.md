@@ -86,13 +86,11 @@
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&amp;theme=dracula" alt="tun784">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&amp;theme=dracula" alt="tun784">
     </p>
-</div>
-
-<div align="center">
-    <p>
+    
+<p align="center">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=dracula" alt="tun784">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=dracula&amp;utcOffset=8" alt="tun784">
-    </p>
+</p>
 
 
 
