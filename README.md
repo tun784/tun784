@@ -8,6 +8,9 @@
 
 <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me" align="left"/>
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="20%" align="right"/>
+    </a>
 </p> 
 
 <ul>
