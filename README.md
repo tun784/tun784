@@ -10,7 +10,7 @@
 </p>
 
 <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3000&color=03F3FF&center=true&width=150&lines=About+me"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3500&color=03F3FF&center=true&width=150&lines=About+me"/>
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=8&icon=3&pretty=false" align="right" />
     </a>
@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3000&color=03F3FF&center=true&width=1000&lines=Languages+and+tools+that+I+learned">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=6000&color=03F3FF&center=true&width=1000&lines=Languages+and+tools+that+I+learned">
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3000&color=03F3FF&center=true&width=700&lines=Contact+for+works">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=4000&color=03F3FF&center=true&width=700&lines=Contact+for+works">
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3000&color=03F3FF&center=true&width=200&lines=Donate+me!;Support+me!"></p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3500&color=03F3FF&center=true&width=200&lines=Donate+me!;Support+me!"></p>
     
 <p align="center">
   <a href="https://www.buymeacoffee.com/tuntomo">
@@ -70,7 +70,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Statistics;I'm+a+second-year+student;I'm+a+Junior+Developer" width="700" height=auto;></p>
+<p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=10000&center=true&width=400&lines=Statistics;I'm+a+second-year+student;I'm+a+Junior+Developer" width="700" height=auto;></p>
 
 <p align="center">
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=dracula&locale=en" alt="tun784" />
