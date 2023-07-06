@@ -19,8 +19,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=6000&color=03F3FF&center=true&width=900&height=45&lines=Languages+and+tools+that+I+learned">
 </p>
@@ -61,11 +59,9 @@
     </a>
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=Statistics;I'm+a+second-year+student;I'm+a+Junior+Developer" width="700" height=auto;></p>
+<p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+a+second-year+student;I'm+a+Junior+Developer;Statistics" width="700" height=auto;></p>
 
 <p align="center">
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
@@ -94,7 +90,7 @@
 
 
 
-<p dir="auto">
+<p dir="auto" align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
         <img src="https://github.com/tun784/tun784/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake animation" style="max-width: 100%;">
     </a>
