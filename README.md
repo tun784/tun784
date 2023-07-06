@@ -75,6 +75,6 @@
 
   <div align="center">
   
-    ![Snake animation](https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+    ![Snake animation](https://github.com/dat911zz/dat911zz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
     
   </div>
