@@ -110,16 +110,16 @@
 </p>
 
 <div align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&theme=tokyonight)
+    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&theme=tokyonight)
 </div>
 
 <div align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=dracula)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=dracula)
+    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=dracula)
+    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=dracula)
 </div>
 <div align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=dracula)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&theme=dracula&utcOffset=8)
+    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=dracula)
+    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&theme=dracula&utcOffset=8)
 </div>
 
 <p dir="auto">
