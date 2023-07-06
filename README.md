@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me" align="left"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me" align="left"/>
     
 </p> 
 
@@ -84,7 +84,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3500&color=03F3FF&center=true&width=200&height=45&lines=Donate+me!;Support+me!"></p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3500&color=03F3FF&center=true&width=200&height=45&lines=Donate+me!;Support+me!"></p>
     
 <p align="center">
   <a href="https://www.buymeacoffee.com/tuntomo">
@@ -110,8 +110,16 @@
 </p>
 
 <p align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=dracula" alt="tun784" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=cobalt" alt="tun784" />
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&theme=dracula)
+</p>
+
+<p>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=dracula)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=dracula)
+</p>
+<p>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=dracula)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&theme=dracula&utcOffset=8)
 </p>
 
 <p dir="auto">
