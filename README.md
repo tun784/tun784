@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=radical" alt="tun784" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=ayu-mirage" alt="tun784" />
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="49%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=5" alt="tun784" /></a>
 </p>
 
@@ -83,7 +83,7 @@
     </p>
     
 <p align="center">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=dracula" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=aura_dark" alt="tun784">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
 </p>
 
