@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=tokyonight" alt="tun784" width="100%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord-dark" alt="tun784" width="100%">
 </p>
 
 
@@ -84,7 +84,7 @@
     
 <p align="center">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=dracula" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=cobalt&amp;utcOffset=8" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
 </p>
 
 
