@@ -9,7 +9,7 @@
 <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me"/>
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="20%" align="right" />
+      <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="150" align="right" />
     </a>
 </p>
 
@@ -109,8 +109,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&color=03F3FF&center=true&width=700&height=45&lines=🌐+Social+networks">
+<p align="center" color="#36BCF7FF">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=250&height=45&lines=🌐+Social+networks">
 </p>
 
 <p align="center">
@@ -127,13 +127,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3500&color=03F3FF&center=true&width=200&height=45&lines=Donate+me!;Support+me!"></p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3500&center=true&width=250&height=45&lines=Donate+me!;Support+me!"></p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/tuntomo">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="5%" width="18%" alt="tuntomo" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="tuntomo" />
   </a>
   <a href="https://ko-fi.com/tuntomo">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="5%" width="18%" alt="tuntomo" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="tuntomo" />
   </a>
 </p>
