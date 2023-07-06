@@ -14,8 +14,8 @@
 </p>
 
 <ul>
-  <li>📝 I regularly post my repositories <a href="https://github.com/tun784?tab=repositories">here</a>.</li>
-  <li>📫 Message me <strong>here</strong>.</li>
+  <li>📝 I regularly back up my code <a href="https://github.com/tun784?tab=repositories">here</a>.</li>
+  <li>📫 Here's my <strong><a href="https://github.com/tun784/tun784/blob/main/README.md">website</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;">
