@@ -1,20 +1,21 @@
 <div align="center" id="badges">
-    <br>
     <p id="header" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+a+second-year+student;Great+to+meet+you+here!;Thank+you+%3C3"/>
     </p> 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">I'm just a second-year student</h3>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=11&icon=3&pretty=false" width="20%" height="10%"; />
-  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="right">
+  
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=About+Me" width="500" height=auto;></p>
+<p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3000&color=03F3FF&center=true&width=150&lines=About+me"/>
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=8&icon=3&pretty=false" align="right" />
+    </a>
+</p> 
+
 <ul>
   <li>📝 I regularly post my repositories on <a href="https://github.com/tun784">Here</a>.</li>
   <li>📫 Message me on Telegram: <strong>Here</strong>.</li>
@@ -22,7 +23,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Languages+and+tools+that+I+learnt" width="500" height=auto;></p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3000&color=03F3FF&center=true&width=1000&lines=Languages+and+tools+that+I+learned">
+</p>
+
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="4%" height="4%"/>
@@ -37,7 +41,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Contact+for+works+!" width="500" height=auto;></p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3000&color=03F3FF&center=true&width=700&lines=Contact+for+works">
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/tuannh87" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="30" width="35" />
@@ -49,7 +56,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Donate+me+!;Support+me+!" width="500" height=auto;></p>
+<p align="center" color="#36BCF7FF">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3000&color=03F3FF&center=true&width=200&lines=Donate+me!;Support+me!"></p>
+    
 <p align="center">
   <a href="https://www.buymeacoffee.com/tuntomo">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="5%" width="18%" alt="tuntomo" />
@@ -61,11 +70,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Statistic;I'm+a+Student;I'm+a+Junior+Developer" width="700" height=auto;></p>
+<p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Statistics;I'm+a+second-year+student;I'm+a+Junior+Developer" width="700" height=auto;></p>
 
 <p align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=highcontrast&title_color=ddfa00&text_color=ffffff&locale=en" alt="tun784" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=highcontrast" alt="tun784" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=dracula&locale=en" alt="tun784" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=dracula" alt="tun784" />
 </p>
 
 <p align="center">
