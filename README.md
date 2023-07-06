@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&theme=dracula)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&theme=tokyonight)
 </p>
 
 <p>
