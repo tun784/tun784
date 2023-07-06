@@ -18,11 +18,11 @@
   <li>📫 Message me <strong>here</strong>.</li>
 </ul>
 
-<p align="right" style="direction: rtl;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=320&height=45&lines=🡻+Social+networks+🡻"/>
+<p align="left" style="direction: rtl;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=250&height=45&lines=Social+networks"/>
 </p>
 
-<p align="right">
+<p align="left">
     <a href="https://www.linkedin.com/in/tuannh87">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
