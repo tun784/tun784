@@ -14,7 +14,7 @@
 </p>
 
 <ul>
-  <li>📝 I regularly post my repositories <a href="https://github.com/tun784">here</a>.</li>
+  <li>📝 I regularly post my repositories <a href="https://github.com/tun784?tab=repositories">here</a>.</li>
   <li>📫 Message me <strong>here</strong>.</li>
 </ul>
 
