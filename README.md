@@ -61,7 +61,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Student;I'm+a+Junior" width="700" height=auto;></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Statistic;I'm+a+Student;I'm+a+Junior+Developer" width="700" height=auto;></p>
 
 <p align="center">
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=highcontrast&title_color=ddfa00&text_color=ffffff&locale=en" alt="tun784" />
