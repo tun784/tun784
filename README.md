@@ -17,11 +17,15 @@
   <li>📝 I regularly post my repositories <a href="https://github.com/tun784">here</a>.</li>
   <li>📫 Message me <strong>here</strong>.</li>
 </ul>
+
 <p align="right">
+    <a href="https://www.linkedin.com/in/tuannh87">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
+    </a>
+    <a href="https://www.tiktok.com/@comradevn">
+        <img src="https://img.shields.io/badge/TikTok-100000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
     <a href="https://github.com/tun784">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
-    </a>
-    <a href="https://www.linkedin.com/in/tuannh87"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
 </p>
 
@@ -124,7 +128,7 @@
 
 <p align="center" color="#36BCF7FF">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3500&color=03F3FF&center=true&width=200&height=45&lines=Donate+me!;Support+me!"></p>
-    
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/tuntomo">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="5%" width="18%" alt="tuntomo" />
