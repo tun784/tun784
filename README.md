@@ -6,17 +6,44 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me" align="left"/>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="20%" align="right"/>
-    </a>
-</p> 
 
-<ul>
-  <li>📝 I regularly post my repositories <a href="https://github.com/tun784">here</a>.</li>
-  <li>📫 Message me <strong>here</strong>.</li>
-</ul>
+
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
+
+<div class="row">
+  <div class="column" >
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me"/>
+            <ul>
+              <li>📝 I regularly post my repositories <a href="https://github.com/tun784">here</a>.</li>
+              <li>📫 Message me <strong>here</strong>.</li>
+            </ul>
+      </p>
+  </div>
+    
+  <div class="column" >
+    <p>
+        <a href="https://visitcount.itsvg.in">
+          <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="20%" align="right"/>
+        </a>
+    </p>
+    <p align="right">
+        <a href="https://github.com/tun784">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
+        </a>
+        <a href="https://www.linkedin.com/in/tuannh87"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
+        </a>
+    </p>
+    </p>
+  </div>
+</div>
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
