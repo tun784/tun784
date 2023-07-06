@@ -23,9 +23,16 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
     <a href="https://www.tiktok.com/@comradevn">
-        <img src="https://img.shields.io/badge/TikTok-100000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
+    </a>
     <a href="https://github.com/tun784">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
+        <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
+    </a>
+    <a href="https://www.reddit.com/user/tuan784">
+        <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit">
+    </a>
+    <a href="https://www.tumblr.com/tuan784">
+        <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
     </a>
 </p>
 
