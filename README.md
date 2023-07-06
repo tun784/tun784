@@ -73,8 +73,8 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="49%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=5" alt="tun784" /></a>
 </p>
 
-  <div align="center">
-  
-    ![Snake animation](https://github.com/dat911zz/dat911zz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-    
-  </div>
+<p dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
+        <img src="https://github.com/tun784/tun784/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake animation" style="max-width: 100%;">
+    </a>
+</p>
