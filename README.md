@@ -117,8 +117,8 @@
 </p>
 
 <p align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=tokyonight" alt="tun784" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="49%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=5" alt="tun784" /></a>
+    <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=tokyonight" alt="tun784" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="40%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=3&column=3" alt="tun784" /></a>
 </p>
 
 <p dir="auto" align="center">
