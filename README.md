@@ -23,20 +23,20 @@
 </p>
 
 <p align="left">
+    <a href="https://t.me/TunToMo">
+        <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
+    </a>
     <a href="https://www.linkedin.com/in/tuannh87">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
     <a href="https://github.com/tun784">
         <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
     </a>
-    <a href="https://t.me/TunToMo">
-        <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
+    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
+        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
     <a href="https://www.tiktok.com/@comradevn">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
-    </a>
-    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
-        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
     <a href="https://www.reddit.com/user/tuan784">
         <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit">
