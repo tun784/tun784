@@ -23,6 +23,9 @@
 </p>
 
 <p align="left">
+    <a href="https://www.facebook.com/profile.php?=75816879">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
+    </a>
     <a href="https://t.me/TunToMo">
         <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
     </a>
