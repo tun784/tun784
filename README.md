@@ -108,7 +108,7 @@
     
 <p align="center">
         <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&amp;theme=gruvbox" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=gruvbox" alt="tun784">
 </p>
 
 <p align="center">
