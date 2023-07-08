@@ -123,7 +123,6 @@
     <a href="https://www.buymeacoffee.com/tuntomo">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="30%" alt="tuntomo" align="right"/>
     </a>
-    <br>
     <a href="https://ko-fi.com/tuntomo">
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="30%" alt="tuntomo" align="right"/>
     </a>
