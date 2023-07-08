@@ -121,10 +121,10 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="31%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=3&column=3" alt="tun784" align="left"/></a>
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=15&duration=3500&color=03F3FF&width=100&lines=Donate+me!;Support+me!" />
     <a href="https://www.buymeacoffee.com/tuntomo">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="30%" alt="tuntomo" align="right"/>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="30%" alt="tuntomo"/>
     </a>
     <a href="https://ko-fi.com/tuntomo">
-        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="30%" alt="tuntomo" align="right"/>
+        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="30%" alt="tuntomo"/>
     </a>
 </p>
 
