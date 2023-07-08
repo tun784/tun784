@@ -112,50 +112,29 @@
 </p>
 
 <p align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
+    <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
 </p>
 
-<p align="center">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=compact&theme=tokyonight" alt="tun784" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="56%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=2&column=5" alt="tun784" /></a>
+<p>
+    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=tokyonight" alt="tun784" align="left"/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="31%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=3&column=3" alt="tun784" align="left"/></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=3500&color=03F3FF&center=true&width=250&height=60&lines=Donate+me!;Support+me!" align="right"/>
+    <a href="https://www.buymeacoffee.com/tuntomo">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="tuntomo" align="right"/>
+  </a>
+  <a href="https://ko-fi.com/tuntomo">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="180" alt="tuntomo" align="right"/>
+  </a>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=32&duration=5000&center=true&width=330&height=55&lines=Please+don't+click" align="right"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VietnameseComrade" width="90" align="right"/>
+  </a>
 </p>
 
 <p dir="auto" align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
-        <img src="https://github.com/tun784/tun784/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake animation" style="max-width: 100%;">
+        <img src="https://github.com/tun784/tun784/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake animation" style="max-width: 100%;" width="100%">
     </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center" color="#03F3FF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=3500&center=true&width=250&height=45&lines=Donate+me!;Support+me!"></p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tuntomo">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="tuntomo" />
-  </a>
-  <a href="https://ko-fi.com/tuntomo">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="tuntomo" />
-  </a>
-</p>
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center" color="#03F3FF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=300&height=47&lines=Please+don't+click">
-</p>
-
-<p align="center">
-    <!--
-    <a href="https://linkedin.com/in/tuannh87" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuannh87" height="30" width="35" />
-  </a>
-    -->
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VietnameseComrade" height="30" width="35" />
-  </a>
 </p>
