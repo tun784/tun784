@@ -102,8 +102,8 @@
 </p>
 
 <p align="center">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&amp;theme=blueberry" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&amp;theme=noctis_minimus" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="tun784">
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=noctis_minimus" alt="tun784">
     </p>
     
 <p align="center">
@@ -116,25 +116,30 @@
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
 </p>
 
-<p>
-    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=tokyonight" alt="tun784" align="left"/>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="22%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=2" alt="tun784" align="left"/></a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=40&duration=3500&color=03F3FF&width=290&height=65&lines=Donate+me!;Support+me!" align="left"/>
-    <br><br>
+<p align="center">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=tokyonight" alt="tun784" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=compact&theme=tokyonight" alt="tun784"/>
+    </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3500&color=03F3FF&width=200&height=50&lines=Donate+me!;Support+me!"/>
+</p>
+
+<p align="center">
     <a href="https://www.paypal.com/paypalme/nhtuan784">
-        <img src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404_1280.png" width="210" alt="tuntomo" align="center"/>
+        <img src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404_1280.png" width="200" alt="tuntomo"/>
     </a>
-    <br>
     <a href="https://patreon.com/user?u=21920896">
-        <img src="https://i0.wp.com/aliceincosplayland.com/wp-content/uploads/2023/06/6021970442adc50004f0aa7c.png?fit=340%2C190&ssl=1" width="210" alt="tuntomo" align="center"/>
+        <img src="https://i0.wp.com/aliceincosplayland.com/wp-content/uploads/2023/06/6021970442adc50004f0aa7c.png?fit=340%2C190&ssl=1" width="190" alt="tuntomo" />
     </a>
     <br>
     <a href="https://www.buymeacoffee.com/tuntomo">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="tuntomo" align="center"/>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="tuntomo"/>
     </a>
-    <br><br>
     <a href="https://ko-fi.com/tuntomo">
-        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" alt="tuntomo" align="center"/>
+        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" alt="tuntomo"/>
     </a>
 </p>
 
