@@ -99,9 +99,6 @@
 
 <p align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="tun784" style="max-width: 100%;">
-</p>
-
-<p align="center">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="tun784">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=noctis_minimus" alt="tun784">
     </p>
