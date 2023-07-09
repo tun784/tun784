@@ -119,8 +119,12 @@
 <p>
     <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=tokyonight" alt="tun784" align="left"/>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="22%" src="https://github-profile-trophy.vercel.app/?username=tun784&theme=onedark&row=4&column=2" alt="tun784" align="left"/></a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=40&duration=3500&color=03F3FF&width=290&height=65&lines=Donate+me!;Support+me!" align="right"/>
-    <br><br><br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=40&duration=3500&color=03F3FF&width=290&height=65&lines=Donate+me!;Support+me!" align="left"/>
+    <br><br>
+    <a href="https://www.paypal.com/paypalme/nhtuan784">
+        <img src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404_1280.png" width="210" alt"tuntomo" align="center"/>
+    </a>
+    <br>
     <a href="https://www.buymeacoffee.com/tuntomo">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="tuntomo" align="center"/>
     </a>
