@@ -112,8 +112,8 @@
 </p>
 
 <p align="center">
-    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
-    <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
+    <img style="max-width: 90%;" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
+    <img style="max-width: 80%;" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
 </p>
 
 <p align="center">
