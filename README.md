@@ -98,27 +98,27 @@
 <p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+a+second-year+student;User+Statistics;Stats" width="700" height=auto;></p>
 
 <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="tun784" width="100%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="tun784" style="max-width: 100%;">
 </p>
 
 <p align="center">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=noctis_minimus" alt="tun784">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="tun784">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=noctis_minimus" alt="tun784">
     </p>
     
 <p align="center">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=gruvbox" alt="tun784">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=gruvbox" alt="tun784">
 </p>
 
 <p align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
+    <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
 </p>
 
 <p align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=tokyonight" alt="tun784" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=compact&theme=tokyonight" alt="tun784"/>
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=tokyonight" alt="tun784" />
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=compact&theme=tokyonight" alt="tun784"/>
     </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
