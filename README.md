@@ -115,7 +115,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3500&color=03F3FF&width=200&height=50&lines=Donate+me!;Support+me!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3500&color=03F3FF&width=200&lines=Donate+me!;Support+me!"/>
 </p>
 
 <p align="center">
