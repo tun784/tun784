@@ -122,11 +122,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=40&duration=3500&color=03F3FF&width=290&height=65&lines=Donate+me!;Support+me!" align="right"/>
     <br><br><br>
     <a href="https://www.buymeacoffee.com/tuntomo">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="tuntomo" align="right"/>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="tuntomo" align="center"/>
     </a>
-    <br><br><br><br>
+    <br><br>
     <a href="https://ko-fi.com/tuntomo">
-        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" alt="tuntomo" align="right"/>
+        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" alt="tuntomo" align="center"/>
     </a>
 </p>
 
