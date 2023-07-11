@@ -1,6 +1,6 @@
 <div align="center" id="badges">
     <p id="header" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan;I'm+just+a+second-year+student;Great+to+meet+you+here!;Thank+you+for+view+my+profile+%3C3" width="100%"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=7000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan;I'm+just+a+second-year+student;Great+to+meet+you+here!;Thank+you+for+viewing+my+Github+%3C3" width="100%"/>
     </p> 
 </div>
 
