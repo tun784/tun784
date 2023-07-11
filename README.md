@@ -14,7 +14,7 @@
 </p>
 
 <ul>
-  <li>💻 I regularly back up my code <a href="https://github.com/tun784?tab=repositories"><strong>here</strong></a>.</li>
+  <li>💻 I regularly back up my code <strong><a href="https://github.com/tun784?tab=repositories">here</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;">
