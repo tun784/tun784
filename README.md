@@ -7,8 +7,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-        <img align="right" alt="coding" width="400" src="https://github.com/tun784/tun784/assets/116370663/9a1d6fd8-846d-4227-9ec6-d04c3e2f60b1" style="max-width: 100%;" alt="Vietnam map">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/tun784/tun784/assets/116370663/98080af9-cc21-4b4e-a822-40a68be1ee56">
+        <img align="right" alt="Vietnam Map" width="400" src="https://github.com/tun784/tun784/assets/116370663/98080af9-cc21-4b4e-a822-40a68be1ee56" style="max-width: 100%;" alt="Vietnam map">
     </a>
 </p>
 
