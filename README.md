@@ -144,6 +144,3 @@
         <img src="https://github.com/tun784/tun784/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake animation" style="max-width: 100%;" width="100%">
     </a>
 </p>
-<p>
-    <img src="https://github.com/tun784/tun784/assets/116370663/e2495875-54d3-4716-8d47-a0ff99927926" alt="Ban do VN co HS TS2">
-</p>
