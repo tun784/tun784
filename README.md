@@ -58,7 +58,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=6000&color=03F3FF&center=true&width=600&lines=Languages+and+tools+that+I+learned">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=5000&color=03F3FF&center=true&width=600&lines=Languages+and+tools+that+I+learned">
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+just+a+second-year+student;My+Github+Statistics;Stats" width="800" height=auto;></p>
+<p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+a+second-year+student;My+Github+Statistics;Stats" width="710" height=auto;></p>
 
 <p align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="tun784" style="max-width: 100%;">
