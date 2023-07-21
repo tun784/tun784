@@ -122,7 +122,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3500&color=03F3FF&width=200&lines=Donate+me!;Support+me!"/>
 </p>
-
 <p align="center">
     <a href="https://www.paypal.com/paypalme/nhtuan784">
         <img src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404_1280.png" width="190" alt="tuntomo"/>
@@ -137,6 +136,10 @@
     <a href="https://ko-fi.com/tuntomo">
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="tuntomo"/>
     </a>
+</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=3500&color=03F3FF&width=600&lines=Machine+Learning+Operations+(MLOps)+End-to-End+Process"/>
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/mr-deepak-bhardwaj/">
