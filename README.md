@@ -151,8 +151,17 @@
     </p>
 </blockquote>
 
+<themed-picture data-catalyst-inline="true" data-catalyst="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+    </picture>
+</themed-picture>
+<!--
 <p dir="auto" align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
         <img src="https://github.com/tun784/tun784/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake Animation" style="max-width: 100%;">
     </a>
 </p>
+-->
