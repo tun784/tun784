@@ -139,7 +139,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=7000&color=03F3FF&width=760&lines=Machine+Learning+Operations+End-to-End+Process"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=7000&color=03F3FF&width=780&lines=Machine+Learning+Operations+End-to-End+Process"/>
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/mr-deepak-bhardwaj/">
