@@ -138,12 +138,12 @@
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="tuntomo"/>
     </a>
 </p>
-<p dir="auto">
+<p align="center">
     <a href="https://www.linkedin.com/in/mr-deepak-bhardwaj/">
         <img src="https://media.licdn.com/dms/image/D4E22AQFeguh1o0HBBg/feedshare-shrink_800/0/1689754870426?e=1692835200&v=beta&t=JK7F9Dkgf2H9PQWLupwsEd1bLFBwpa5aW_VTvS3pIBs" width="400" alt="Machine Learning Operations (MLOps) - End-to-End Process"/>
 </p>
 <blockquote>
-    <p align="center">
+    <p dir="auto">
         <span class="color-fg-attention">
             <svg class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                 <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z">
