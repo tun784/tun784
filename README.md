@@ -28,9 +28,11 @@
 </p>
 
 <p align="left">
+    <!--
     <a href="https://www.linkedin.com/in/tuannh87">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
+    -->
     <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
         <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
