@@ -7,8 +7,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/tun784/tun784/assets/116370663/138c184f-81bc-490d-9da2-d98491266092">
-        <img align="right" alt="The Map of Socialist Republic of Vietnam" width="410" src="https://github.com/tun784/tun784/assets/116370663/138c184f-81bc-490d-9da2-d98491266092">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://wikipedia.org/wiki/Vietnam">
+        <img align="right" alt="The Map of Socialist Republic of Vietnam" width="410" src="https://github.com/tun784/tun784/assets/116370663/c5b55925-a058-425a-83e0-dda544a3e770">
     </a>
 </p>
 
