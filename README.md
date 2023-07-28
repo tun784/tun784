@@ -105,15 +105,15 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="tun784" style="max-width: 100%;">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="tun784">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=noctis_minimus" alt="tun784">
-    </p>
-    
+</p>
+
 <p align="center">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=gruvbox" alt="tun784">
     <img width="360" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
     <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
-    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=tokyonight" alt="tun784" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=compact&theme=tokyonight" alt="tun784"/>
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=tokyonight" alt="tun784" />
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=react" alt="tun784"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
