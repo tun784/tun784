@@ -102,15 +102,15 @@
 <p align="center" color="#03F3FF"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+a+second-year+student;My+Github+Statistics" width="710" height=auto;></p>
 
 <p align="center">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="tun784">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="tun784">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=noctis_minimus" alt="tun784">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="tun784">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=gruvbox" alt="tun784">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="tun784" />
-    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="tun784" />
-    <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=react" alt="tun784" />
-    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" alt="tun784"/>
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="Profile Details">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="Stats">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=noctis_minimus" alt="Repos per Language">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="Productive Time">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=gruvbox" alt="Most Commit Languages">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
+    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="Streak" />
+    <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=react" alt="Top Languages" />
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" data-canonical-src="https://wakatime.com/@tun784" alt="Waka Time"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -120,17 +120,17 @@
 </p>
 <p align="center">
     <a href="https://www.paypal.com/paypalme/nhtuan784">
-        <img src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404_1280.png" width="190" alt="tuntomo"/>
+        <img src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404_1280.png" width="190" alt="Paypal"/>
     </a>
     <a href="https://patreon.com/user?u=21920896">
-        <img src="https://i0.wp.com/aliceincosplayland.com/wp-content/uploads/2023/06/6021970442adc50004f0aa7c.png?fit=340%2C190&ssl=1" width="180" alt="tuntomo" />
+        <img src="https://i0.wp.com/aliceincosplayland.com/wp-content/uploads/2023/06/6021970442adc50004f0aa7c.png?fit=340%2C190&ssl=1" width="180" alt="Patreon" />
     </a>
     <br>
     <a href="https://www.buymeacoffee.com/tuntomo">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="tuntomo"/>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me a Coffee"/>
     </a>
     <a href="https://ko-fi.com/tuntomo">
-        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="tuntomo"/>
+        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Ko-fi"/>
     </a>
 </p>
 
