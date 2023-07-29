@@ -114,7 +114,7 @@
         <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" alt="Waka Time"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=5&theme=onedark" alt="Trophy" />
+        <img width= "300" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=5&theme=onedark" alt="Trophy" />
     </a>
 </p>
 
