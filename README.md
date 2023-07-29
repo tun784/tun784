@@ -43,7 +43,6 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
     </a>
-    <!--
     <a href="https://www.tiktok.com/@comradevn">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
     </a>
@@ -53,7 +52,6 @@
     <a href="https://www.linkedin.com/in/tuannh87">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
-    -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
