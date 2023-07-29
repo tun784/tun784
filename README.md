@@ -110,8 +110,11 @@
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
     <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="Streak" />
     <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=react" alt="Top Languages" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=tun784" alt="Trophy" />
+    </a>
     <a href="https://wakatime.com/@tun784">
-    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" alt="Waka Time"/>
+        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" alt="Waka Time"/>
     </a>
 </p>
 
