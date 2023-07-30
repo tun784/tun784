@@ -122,8 +122,8 @@
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=gruvbox" alt="Most Commit Languages">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
     <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="Streak" />
-    <img width= "265" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=react" alt="Top Languages" />
-    <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=3&column=3&theme=onedark" alt="Trophy" />
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
+    <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
