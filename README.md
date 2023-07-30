@@ -14,11 +14,11 @@
 
 <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
-    <a href="">
-        <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=blueviolet&style=plastic" align="right" alt="Profile Views"/>
-    </a>
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="150" align="right" alt="Profile Views"/>
+    </a>
+    <a href="">
+        <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=blueviolet&style=plastic" align="right" alt="Profile Views"/>
     </a>
 </p>
 
