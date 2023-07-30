@@ -15,7 +15,7 @@
 <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=blueviolet&style=plastic" align="right" alt="Profile Views"/>
+        <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
     </a>
     <!--
     <a href="https://visitcount.itsvg.in">
