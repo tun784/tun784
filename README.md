@@ -20,7 +20,9 @@
 </p>
 
 <ul>
-  <li>💻 I regularly back up my code <strong><a href="https://github.com/tun784?tab=repositories">here</a></strong>.</li>
+    <li>👋 Welcome to my <a href="https://github.com">Github</a> profile.</li>
+    <li>💻 I regularly back up my code <strong><a href="https://github.com/tun784?tab=repositories">here</a></strong>.</li>
+    <li>🎓 I'm a second-year student at an university in <a href="https://wikipedia.org/wiki/Ho_Chi_Minh_City">Ho Chi Minh City</a>, <strong><a href="https://wikipedia.org/wiki/Vietnam">Socialist Republic of Vietnam</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;">
