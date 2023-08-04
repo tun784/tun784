@@ -121,7 +121,7 @@
     <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="Streak" />
     <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
     <a href="https://wakatime.com/@tun784">
-        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" alt="Waka Time"/>
+        <img width="490" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" alt="Waka Time"/>
     </a>
     <!--
     <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
