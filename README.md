@@ -113,9 +113,6 @@
 
 <p align="center">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=nord_dark" alt="Profile Details">
-    <a href="https://wakatime.com/@tun784">
-        <img width= "700" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" alt="Waka Time"/>
-    </a>
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="Stats">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=noctis_minimus" alt="Repos per Language">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=react&amp;utcOffset=8" alt="Productive Time">
@@ -123,7 +120,12 @@
     <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
     <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=gruvbox" alt="Streak" />
     <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
+    <a href="https://wakatime.com/@tun784">
+        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=tokyonight" alt="Waka Time"/>
+    </a>
+    <!--
     <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
+    -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
