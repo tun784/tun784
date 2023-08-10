@@ -47,11 +47,14 @@
     <a href="https://www.tumblr.com/tuan784">
         <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
     </a>
-    <a href="https://www.tiktok.com/@comradevn">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
-    </a>
     <a href="https://www.facebook.com/profile.php?=75816879">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://codeforces.com/profile/TuanToMo874">
+        <img src="https://img.shields.io/badge/Codeforce-fad161?style=for-the-badge&amp;logo=codeforce&amp;logoColor=white" alt="Codeforce">
+    </a>
+    <a href="https://www.tiktok.com/@comradevn">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
