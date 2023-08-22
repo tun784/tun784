@@ -214,7 +214,7 @@
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Ko-fi"/>
     </a>
 </p>
-
+<!--
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=28&duration=7000&color=03F3FF&width=780&lines=Machine+Learning+Operations+End-to-End+Process"/>
 </p>
@@ -222,7 +222,7 @@
     <a href="https://www.linkedin.com/in/mr-deepak-bhardwaj/">
         <img width= "100%" src="https://media.licdn.com/dms/image/D4E22AQFeguh1o0HBBg/feedshare-shrink_800/0/1689754870426?e=1692835200&v=beta&t=JK7F9Dkgf2H9PQWLupwsEd1bLFBwpa5aW_VTvS3pIBs" width="400" alt="Machine Learning Operations (MLOps) - End-to-End Process"/>
 </p>
-        
+-->
 <blockquote>
     <p dir="auto">
         <em>
