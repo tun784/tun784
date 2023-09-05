@@ -70,7 +70,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=5000&color=03F3FF&center=true&width=600&lines=Languages,+tools+and+softwares+that+I+learned" alt="Languages, tools and softwares that I learned">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=5000&color=03F3FF&center=true&width=700&lines=Languages,+tools+and+softwares+that+I+learned" alt="Languages, tools and softwares that I learned">
 </p>
 
 <p align="center">
