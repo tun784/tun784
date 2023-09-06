@@ -47,23 +47,29 @@
     <a href="https://www.tumblr.com/tuan784">
         <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
     </a>
-    <a href="https://www.facebook.com/profile.php?=75816879">
+    <a href="https://www.facebook.com/me">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
     </a>
     <a href="https://codeforces.com/profile/TuanToMo874">
         <img src="https://img.shields.io/badge/Codeforce-fad161?style=for-the-badge&amp;logo=codeforce&amp;logoColor=white" alt="Codeforce">
     </a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
+    </a>
     <a href="https://www.tiktok.com/@comradevn">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
     </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
+    <a href="https://www.linkedin.com/in/tuannh87">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
     <a href="https://t.me/TunToMo">
         <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
     </a>
-    <a href="https://www.linkedin.com/in/tuannh87">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
+    <a href="https://discord.com/users/510458900114440203">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
+    </a>
+    <a href="https://gitlab.com/tun784">
+        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
     </a>
 </p>
 
