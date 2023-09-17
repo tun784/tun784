@@ -83,10 +83,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="40" height="40"/>
     </a>
     <a href="https://stackoverflow.com/users/20314865/tuan784" target="_blank" rel="noreferrer"> 
-        <img src="https://w7.pngwing.com/pngs/260/278/png-transparent-circle-forum-round-icon-stackoverflow-popular-services-brands-vol-2-icon-thumbnail.png" alt="Stack Over Flow" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="40" height="40"/>
     </a>
     <a href="https://leetcode.com/Tuan784/" target="_blank" rel="noreferrer">
-        <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="40" height="40"/>
+        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="40" height="40"/>
     </a>
     <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="40" height="40" />
