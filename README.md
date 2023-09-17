@@ -82,6 +82,9 @@
     <a href="https://www.hackerrank.com/tun874" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="60" height="60"/>
     </a>
+    <a href="https://www.datacamp.com/portfolio/tun874" target="_blank" rel="noreferrer">
+        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="DataCamp" width="60" height="60" />
+    </a>
     <a href="https://stackoverflow.com/users/20314865/tuan784" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="60" height="60"/>
     </a>
