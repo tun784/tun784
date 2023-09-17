@@ -80,19 +80,19 @@
 
 <p align="left">
     <a href="https://www.hackerrank.com/tun874" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="60" height="60"/>
     </a>
     <a href="https://stackoverflow.com/users/20314865/tuan784" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="60" height="60"/>
     </a>
     <a href="https://leetcode.com/Tuan784/" target="_blank" rel="noreferrer">
-        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="40" height="40"/>
+        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="60" height="60"/>
     </a>
     <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="60" height="60" />
     </a>
     <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
-        <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="40" height="40"/>
+        <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="60" height="60"/>
     </a>
 </p>
 
