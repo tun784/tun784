@@ -51,11 +51,8 @@
     <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
         <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
-    <a href="https://codeforces.com/profile/TuanToMo874">
-        <img src="https://img.shields.io/badge/Codeforce-fad161?style=for-the-badge&amp;logo=codeforce&amp;logoColor=white" alt="Codeforce">
-    </a>
     <a href="https://twitter.com/_tun874">
-        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="Twitter">
     </a>
     <a href="https://www.facebook.com/me">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
@@ -89,10 +86,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50" height="50"/>
     </a>
     <a href="https://www.freecodecamp.org/tun874" target="_blank" rel="noreferrer">
-        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp" width="50" height="50"/>
+        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp" width="60" height="45"/>
     </a>
     <a href="https://www.codecademy.com/profiles/tun487" target="_blank" rel="noreferrer">
-        <img src="https://logos-download.com/wp-content/uploads/2019/11/Codecademy_Logo.png" alt="Codecademy" width="50" height="50"/>
+        <img src="https://logos-download.com/wp-content/uploads/2019/11/Codecademy_Logo.png" alt="Codecademy" width="55" height="50"/>
     </a>
     <a href="https://www.datacamp.com/portfolio/tun874" target="_blank" rel="noreferrer">
         <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="DataCamp" width="50" height="50" />
@@ -105,6 +102,9 @@
     </a>
     <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="50" height="50" />
+    </a>
+    <a href="https://codeforces.com/profile/TuanToMo874 target="_blank" rel="noreferrer">
+        <img src="https://camo.githubusercontent.com/3ffed5f4d7b55a5e966b6a4db4eb130162d5e29e2d79814df76858d9e835ad3a/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e63313465663034363831643530373361343335363161353761393834386265373f72696b3d65436566414a4245497644673551267069643d496d6752617726723d30" alt="Codeforce" width="45" height="50" />
     </a>
     <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
         <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="50" height="50"/>
