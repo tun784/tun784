@@ -36,11 +36,11 @@
 </p>
 
 <p align="left">
+    <a href="https://gitlab.com/tun784">
+        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+    </a>
     <a href="https://steamcommunity.com/id/tuan78/">
         <img src="https://img.shields.io/badge/Steam-133367?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam">
-    </a>
-    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
-        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
     <a href="https://www.reddit.com/user/tuan784">
         <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit">
@@ -48,11 +48,17 @@
     <a href="https://www.tumblr.com/tuan784">
         <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
     </a>
-    <a href="https://www.facebook.com/me">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
+    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
+        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
     <a href="https://codeforces.com/profile/TuanToMo874">
         <img src="https://img.shields.io/badge/Codeforce-fad161?style=for-the-badge&amp;logo=codeforce&amp;logoColor=white" alt="Codeforce">
+    </a>
+    <a href="https://twitter.com/_tun874">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://www.facebook.com/me">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
@@ -69,9 +75,6 @@
     <a href="https://discord.com/users/510458900114440203">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
     </a>
-    <a href="https://gitlab.com/tun784">
-        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
-    </a>
 </p>
 
 <p align="left" style="direction: rtl;">
@@ -79,23 +82,32 @@
 </p>
 
 <p align="left">
+    <a href="https://www.coursera.org/user/1ef3fa40dee335ebc46b89cd655dae07" target="_blank" rel="noreferrer">
+        <img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" alt="Coursera" width="50" height=50"/>
+    </a>
     <a href="https://www.hackerrank.com/tun874" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50" height="50"/>
+    </a>
+    <a href="https://www.freecodecamp.org/tun874" target="_blank" rel="noreferrer">
+        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp" width="50" height="50"/>
+    </a>
+    <a href="https://www.codecademy.com/profiles/tun487" target="_blank" rel="noreferrer">
+        <img src="https://logos-download.com/wp-content/uploads/2019/11/Codecademy_Logo.png" alt="Codecademy" width="50" height="50"/>
     </a>
     <a href="https://www.datacamp.com/portfolio/tun874" target="_blank" rel="noreferrer">
-        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="DataCamp" width="60" height="60" />
+        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="DataCamp" width="50" height="50" />
     </a>
     <a href="https://stackoverflow.com/users/20314865/tuan784" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="50" height="50"/>
     </a>
     <a href="https://leetcode.com/Tuan784/" target="_blank" rel="noreferrer">
-        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="60" height="60"/>
+        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="50" height="50"/>
     </a>
     <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="60" height="60" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="50" height="50" />
     </a>
     <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
-        <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="60" height="60"/>
+        <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="50" height="50"/>
     </a>
 </p>
 
