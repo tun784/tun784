@@ -6,109 +6,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p dir="auto">
-    <a href="https://wikipedia.org/wiki/Vietnam">
-        <img width="410" src="https://github.com/tun784/tun784/assets/116370663/45d361f5-7927-471b-8a0e-c03b0cc5ad01" align="right" alt="The Map of Socialist Republic of Vietnam">
-    </a>
+<p align="center" color="#03F3FF">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+a+second-year+student;My+Github+Statistics" width="710" height=auto;>
 </p>
 
-<p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
-    </a>
+<p align="center">
+        <a href="https://wakatime.com/@tun784">
+            <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=react" alt="Waka Time"/>
+        </a>
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=react" alt="Profile Details">
     <!--
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="150" align="right" alt="Profile Views"/>
-    </a>
+        <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=react" alt="Top Languages" />
     -->
-</p>
-
-<ul>
-    <li>👋 Welcome to my <a href="https://github.com">GitHub</a> profile.</li>
-    <li>💻 I regularly back up my code <strong><a href="https://github.com/tun784?tab=repositories">here</a></strong>.</li>
-    <li>💵 I also have a <a href="https://gitlab.com/users/tun784/groups">GitLab</a> account.</li>
-    <li>🎓 I'm a second-year student at an university in <a href="https://wikipedia.org/wiki/Ho_Chi_Minh_City">Ho Chi Minh City</a>, <strong><a href="https://wikipedia.org/wiki/Vietnam">Socialist Republic of Vietnam</a></strong>.</li>
-</ul>
-
-<p align="left" style="direction: rtl;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=300&height=50&lines=🌐+Social+networks" alt="Social networks"/>
-</p>
-
-<p align="left">
-    <a href="https://gitlab.com/tun784">
-        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
-    </a>
-    <a href="https://steamcommunity.com/id/tuan78/">
-        <img src="https://img.shields.io/badge/Steam-133367?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam">
-    </a>
-    <a href="https://www.reddit.com/user/tuan784">
-        <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit">
-    </a>
-    <a href="https://www.tumblr.com/tuan784">
-        <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
-    </a>
-    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
-        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
-    </a>
-    <a href="https://twitter.com/_tun874">
-        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://www.facebook.com/me">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
-    </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
-    </a>
-    <a href="https://www.tiktok.com/@comradevn">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
-    </a>
-    <a href="https://www.linkedin.com/in/tuannh87">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
-    </a>
-    <a href="https://t.me/TunToMo">
-        <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
-    </a>
-    <a href="https://discord.com/users/510458900114440203">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
-    </a>
-</p>
-
-<p align="left" style="direction: rtl;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=300&height=50&lines=My+profiles" alt="My profile"/>
-</p>
-
-<p align="left">
-    <a href="https://www.coursera.org/user/1ef3fa40dee335ebc46b89cd655dae07" target="_blank" rel="noreferrer">
-        <img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" alt="Coursera" width="50" height=50"/>
-    </a>
-    <a href="https://www.hackerrank.com/tun874" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50" height="50"/>
-    </a>
-    <a href="https://www.freecodecamp.org/tun874" target="_blank" rel="noreferrer">
-        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp" width="60" height="45"/>
-    </a>
-    <a href="https://www.codecademy.com/profiles/tun487" target="_blank" rel="noreferrer">
-        <img src="https://logos-download.com/wp-content/uploads/2019/11/Codecademy_Logo.png" alt="Codecademy" width="55" height="50"/>
-    </a>
-    <a href="https://www.datacamp.com/portfolio/tun874" target="_blank" rel="noreferrer">
-        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="DataCamp" width="50" height="50" />
-    </a>
-    <a href="https://stackoverflow.com/users/20314865/tuan784" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="50" height="50"/>
-    </a>
-    <a href="https://leetcode.com/Tuan784/" target="_blank" rel="noreferrer">
-        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="50" height="50" />
-    </a>
-    <a href="https://codeforces.com/profile/TuanToMo874 target="_blank" rel="noreferrer">
-        <img src="https://camo.githubusercontent.com/3ffed5f4d7b55a5e966b6a4db4eb130162d5e29e2d79814df76858d9e835ad3a/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e63313465663034363831643530373361343335363161353761393834386265373f72696b3d65436566414a4245497644673551267069643d496d6752617726723d30" alt="Codeforce" width="45" height="50" />
-    </a>
-    <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
-        <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="50" height="50"/>
-    </a>
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=algolia" alt="Repositories per Language">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="Stats">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=blueberry&amp;utcOffset=8" alt="Productive Time">
+    <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
+    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=tokyonight" alt="Streak" />
+    <!--
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
+    <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
+    -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -214,28 +133,109 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#03F3FF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+a+second-year+student;My+Github+Statistics" width="710" height=auto;>
+<p dir="auto">
+    <a href="https://wikipedia.org/wiki/Vietnam">
+        <img width="410" src="https://github.com/tun784/tun784/assets/116370663/45d361f5-7927-471b-8a0e-c03b0cc5ad01" align="right" alt="The Map of Socialist Republic of Vietnam">
+    </a>
 </p>
 
-<p align="center">
-        <a href="https://wakatime.com/@tun784">
-            <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=react" alt="Waka Time"/>
-        </a>
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=react" alt="Profile Details">
+<p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
+    </a>
     <!--
-        <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=react" alt="Top Languages" />
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="150" align="right" alt="Profile Views"/>
+    </a>
     -->
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=algolia" alt="Repositories per Language">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="Stats">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=blueberry&amp;utcOffset=8" alt="Productive Time">
-    <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
-    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=tokyonight" alt="Streak" />
-    <!--
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
-    <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
-    -->
+</p>
+
+<ul>
+    <li>👋 Welcome to my <a href="https://github.com">GitHub</a> profile.</li>
+    <li>💻 I regularly back up my code <strong><a href="https://github.com/tun784?tab=repositories">here</a></strong>.</li>
+    <li>💵 I also have a <a href="https://gitlab.com/users/tun784/groups">GitLab</a> account.</li>
+    <li>🎓 I'm a second-year student at an university in <a href="https://wikipedia.org/wiki/Ho_Chi_Minh_City">Ho Chi Minh City</a>, <strong><a href="https://wikipedia.org/wiki/Vietnam">Socialist Republic of Vietnam</a></strong>.</li>
+</ul>
+
+<p align="left" style="direction: rtl;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=300&height=50&lines=🌐+Social+networks" alt="Social networks"/>
+</p>
+
+<p align="left">
+    <a href="https://gitlab.com/tun784">
+        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+    </a>
+    <a href="https://steamcommunity.com/id/tuan78/">
+        <img src="https://img.shields.io/badge/Steam-133367?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam">
+    </a>
+    <a href="https://www.reddit.com/user/tuan784">
+        <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit">
+    </a>
+    <a href="https://www.tumblr.com/tuan784">
+        <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
+    </a>
+    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
+        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
+    </a>
+    <a href="https://twitter.com/_tun874">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://www.facebook.com/me">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
+    </a>
+    <a href="https://www.tiktok.com/@comradevn">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
+    </a>
+    <a href="https://www.linkedin.com/in/tuannh87">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
+    </a>
+    <a href="https://t.me/TunToMo">
+        <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
+    </a>
+    <a href="https://discord.com/users/510458900114440203">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
+    </a>
+</p>
+
+<p align="left" style="direction: rtl;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=300&height=50&lines=My+profiles" alt="My profile"/>
+</p>
+
+<p align="left">
+    <a href="https://www.coursera.org/user/1ef3fa40dee335ebc46b89cd655dae07" target="_blank" rel="noreferrer">
+        <img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" alt="Coursera" width="50" height=50"/>
+    </a>
+    <a href="https://www.hackerrank.com/tun874" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50" height="50"/>
+    </a>
+    <a href="https://www.freecodecamp.org/tun874" target="_blank" rel="noreferrer">
+        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp" width="60" height="45"/>
+    </a>
+    <a href="https://www.codecademy.com/profiles/tun487" target="_blank" rel="noreferrer">
+        <img src="https://logos-download.com/wp-content/uploads/2019/11/Codecademy_Logo.png" alt="Codecademy" width="55" height="50"/>
+    </a>
+    <a href="https://www.datacamp.com/portfolio/tun874" target="_blank" rel="noreferrer">
+        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="DataCamp" width="50" height="50" />
+    </a>
+    <a href="https://stackoverflow.com/users/20314865/tuan784" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="50" height="50"/>
+    </a>
+    <a href="https://leetcode.com/Tuan784/" target="_blank" rel="noreferrer">
+        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="50" height="50"/>
+    </a>
+    <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="50" height="50" />
+    </a>
+    <a href="https://codeforces.com/profile/TuanToMo874 target="_blank" rel="noreferrer">
+        <img src="https://camo.githubusercontent.com/3ffed5f4d7b55a5e966b6a4db4eb130162d5e29e2d79814df76858d9e835ad3a/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e63313465663034363831643530373361343335363161353761393834386265373f72696b3d65436566414a4245497644673551267069643d496d6752617726723d30" alt="Codeforce" width="45" height="50" />
+    </a>
+    <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
+        <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="50" height="50"/>
+    </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
