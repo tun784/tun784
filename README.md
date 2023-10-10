@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#03F3FF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=I'm+a+second-year+student;My+Github+Statistics" width="710" height=auto;>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=My+Github+Statistics" width="710" height=auto;>
 </p>
 
 <p align="center">
