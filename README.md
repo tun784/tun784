@@ -135,7 +135,7 @@
 
 <p dir="auto">
     <a href="https://wikipedia.org/wiki/Vietnam">
-        <img width="410" src="https://github.com/tun784/tun784/assets/116370663/45d361f5-7927-471b-8a0e-c03b0cc5ad01" align="right" alt="The Map of Socialist Republic of Vietnam">
+        <img width="410" src="https://user-images.githubusercontent.com/116370663/274942617-52598b64-2521-403f-a013-88a9b1fd34a8.png" align="right" alt="The Map of Socialist Republic of Vietnam">
     </a>
 </p>
 
