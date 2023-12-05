@@ -281,15 +281,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="right"/>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left" width="400"/>
     <img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="right" width="400"/>
-        <article class="markdown-body entry-content container-lg f5" itemprop="text">
-            <themed-picture data-catalyst-inline="true" data-catalyst="">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-                    <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-                </picture>
-            </themed-picture>
-        </article>
 </p>
 
 <blockquote>
@@ -306,7 +297,7 @@
         </em>
     </p>
 </blockquote>
-<!--
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
         <picture>
@@ -316,7 +307,7 @@
         </picture>
     </themed-picture>
 </article>
--->
+
 <!--
 <p dir="auto" align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
