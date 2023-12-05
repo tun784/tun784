@@ -279,8 +279,8 @@
 <p align="auto" style="direction: rtl;">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote"/>
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="right"/>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left" width="480"/>
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="right" width="480"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left" width="440"/>
+    <img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="right" width="440"/>
         <article class="markdown-body entry-content container-lg f5" itemprop="text">
             <themed-picture data-catalyst-inline="true" data-catalyst="">
                 <picture>
