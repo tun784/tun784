@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
 <div align="center" id="badges">
     <p id="header" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
@@ -229,14 +237,12 @@
         <a href="https://wakatime.com/@tun784">
             <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&layuout=compact&theme=react" alt="Waka Time"/>
         </a>
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=react" alt="Profile Details">
         <!--
         <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
         <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=tokyonight" alt="Streak" />
-        -->
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=react" alt="Profile Details">
-    <!--
         <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=pie&theme=react" alt="Top Languages" />
-    -->
+        -->
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=algolia" alt="Repositories per Language">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tun784&theme=blueberry" alt="Stats">
@@ -268,10 +274,24 @@
     </a>
 </p>
 
-### ✍️Random Dev Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
+<p dir="auto">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="right"/>
+    <img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="right"/>
+        <article class="markdown-body entry-content container-lg f5" itemprop="text">
+            <themed-picture data-catalyst-inline="true" data-catalyst="">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+                    <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+                </picture>
+            </themed-picture>
+        </article>
+</p>
+
+<p align="left" style="direction: rtl;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=3500&color=F3FF00&center=true&width=150&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="left"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left"/>
+</p>
 
 <blockquote>
     <p dir="auto">
@@ -305,3 +325,5 @@
     </a>
 </p>
 -->
+</body>
+</html>
