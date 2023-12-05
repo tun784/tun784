@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p dir="auto">
-    <a href="https://wikipedia.org/wiki/Vietnam">
+    <a href="https://maps.app.goo.gl/ESmQ6miDdXt668PA8">
         <img width="410" src="https://user-images.githubusercontent.com/116370663/274942617-52598b64-2521-403f-a013-88a9b1fd34a8.png" align="right" alt="The Map of Socialist Republic of Vietnam">
     </a>
 </p>
@@ -25,9 +25,8 @@
 </p>
 
 <ul>
-    <li>👋 Welcome to my <a href="https://github.com">GitHub</a> profile.</li>
-    <li>💻 I regularly back up my code <strong><a href="https://github.com/tun784?tab=repositories">here</a></strong>.</li>
-    <li>💵 I also have a <a href="https://gitlab.com/users/tun784/groups">GitLab</a> account.</li>
+    <li>👋 Welcome to my <em><a href="https://github.com">GitHub</a></em> profile.</li>
+    <li>💻 I also have a <code><a href="https://gitlab.com/users/tun784/groups">GitLab</a></code> account.</li>
     <li>🎓 I'm a second-year student at an university in <a href="https://wikipedia.org/wiki/Ho_Chi_Minh_City">Ho Chi Minh City</a>, <strong><a href="https://wikipedia.org/wiki/Vietnam">Socialist Republic of Vietnam</a></strong>.</li>
 </ul>
 
@@ -268,6 +267,11 @@
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Ko-fi"/>
     </a>
 </p>
+
+### ✍️Random Dev Quote
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
 
 <blockquote>
     <p dir="auto">
