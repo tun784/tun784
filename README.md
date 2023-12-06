@@ -35,7 +35,7 @@
 <ul>
     <li>👋 Welcome to my <em><a href="https://github.com">GitHub</a></em> profile.</li>
     <li>💻 I also have a <code><a href="https://gitlab.com/users/tun784/groups">GitLab</a></code> account.</li>
-    <li>🎓 I'm a second-year student at an university in <a href="https://wikipedia.org/wiki/Ho_Chi_Minh_City">Ho Chi Minh City</a>, <strong><a href="https://wikipedia.org/wiki/Vietnam">Socialist Republic of Vietnam</a></strong>.</li>
+    <li>🎓 I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam">Socialist Republic of Vietnam</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;">
@@ -307,7 +307,6 @@
         </picture>
     </themed-picture>
 </article>
-
 <!--
 <p dir="auto" align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
@@ -315,5 +314,15 @@
     </a>
 </p>
 -->
+<p>
+    <a href="https://star-history.com/#tun784/tun784&Date">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tun784/tun784&type=Date&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tun784/tun784&type=Date" />
+        <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tun784/tun784&type=Date" />
+      </picture>
+    </a>
+</p>
+
 </body>
 </html>
