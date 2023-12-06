@@ -314,6 +314,7 @@
     </a>
 </p>
 -->
+<!--
 <p>
     <a href="https://star-history.com/#tun784/tun784&Date">
       <picture>
@@ -323,6 +324,6 @@
       </picture>
     </a>
 </p>
-
+-->
 </body>
 </html>
