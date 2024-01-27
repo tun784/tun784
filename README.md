@@ -110,11 +110,11 @@
     <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="50" height="50" />
     </a>
-    <a href="https://codeforces.com/profile/TuanToMo874 target="_blank" rel="noreferrer">
-        <img src="https://camo.githubusercontent.com/3ffed5f4d7b55a5e966b6a4db4eb130162d5e29e2d79814df76858d9e835ad3a/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e63313465663034363831643530373361343335363161353761393834386265373f72696b3d65436566414a4245497644673551267069643d496d6752617726723d30" alt="Codeforce" width="45" height="50" />
-    </a>
     <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
         <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="50" height="50"/>
+    </a>
+    <a href="https://codeforces.com/profile/TuanToMo874 target="_blank" rel="noreferrer">
+        <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="Codeforce" width="45" height="50" />
     </a>
 </p>
 
