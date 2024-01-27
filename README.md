@@ -113,7 +113,7 @@
     <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
         <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="50" height="50"/>
     </a>
-    <a href="https://codeforces.com/profile/TuanToMo874 target="_blank" rel="noreferrer">
+    <a href="https://codeforces.com/profile/TuanToMo874" target="_blank" rel="noreferrer">
         <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="Codeforce" width="45" height="50" />
     </a>
 </p>
