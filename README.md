@@ -329,7 +329,7 @@
         <img src="https://randommeme-five.vercel.app" style="height: 400px;" align="left" width="384" height=auto/>
     </a>
     <a href="https://random-quote-machine-lac-ten.vercel.app/">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="420" height=auto/>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="425" height=auto/>
     </a>
 </p>
 <!--
