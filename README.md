@@ -97,7 +97,9 @@
 </p>
 
 <p align="left" style="direction: rtl;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=300&height=50&lines=My+profiles" alt="My profile"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=300&height=50&lines=My+profiles" alt="My profile"/>
+    </a>
 </p>
 
 <p align="left">
@@ -136,7 +138,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=5000&color=03F3FF&center=true&width=700&lines=Programming+languages,+tools+and+softwares" alt="Programming languages, tools and softwares">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=5000&color=03F3FF&center=true&width=700&lines=Programming+languages,+tools+and+softwares" alt="Programming languages, tools and software">
+    </a>
 </p>
 
 <p align="center">
@@ -315,10 +319,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="auto" style="direction: rtl;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="left"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right"/>
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="left" width="384" height=auto/>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="419" height=auto/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="left"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right"/>
+    </a>
+    <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
+        <img src="https://randommeme-five.vercel.app" style="height: 400px;" align="left" width="384" height=auto/>
+    </a>
+    <a href="https://random-quote-machine-lac-ten.vercel.app/">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="419" height=auto/>
+    </a>
 </p>
 <!--
 <br><br><br>
