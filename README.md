@@ -251,47 +251,41 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#03F3FF">
-    <!--
-    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">
-    -->
+    <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=My+Github+Stats;Follow+me" width="710">
     </a>
 </p>
 
 <p dir="auto" style="direction: rtl;" align="center">
-        <a href="https://wakatime.com/@tun784">
-            <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" width="400" height=auto/>
-        </a>
-        <a href="https://gh-stats-gen.vercel.app/">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages" width="290"/>
-        </a>
+    <a href="https://github-profile-summary-cards.vercel.app">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
+    </a>
+    <a href="https://wakatime.com/@tun784">
+        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" width="405"/>
+    </a>
+    <a href="https://gh-stats-gen.vercel.app/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages" width="340"/>
+    </a>
     <!-- &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
-        <a href="https://github-profile-summary-cards.vercel.app">
-            <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
-        </a>
-        <!--
+    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
+    </a>
+    <a href="https://gh-stats-gen.vercel.app/">
+        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=tun784&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
+    </a>
+    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
+    </a>
+    <a href="https://gh-stats-gen.vercel.app/">
+        <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&amp;theme=algolia&amp;hide_border=true" alt="Streak&#39;s Streak">
+    </a>
+    <!--
         <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
         <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=tokyonight" alt="Streak" />
-        -->
-        <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-            <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
-        </a>
-    <!--
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=algolia" alt="Repositories per Language">
-    -->
-        <a href="https://gh-stats-gen.vercel.app/">
-            <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=tun784&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
-        </a>
-        <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-            <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
-        </a>
-        <a href="https://gh-stats-gen.vercel.app/">
-            <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&amp;theme=algolia&amp;hide_border=true" alt="Streak&#39;s Streak">
-        </a>
-    <!--
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
-    <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
+        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
+        <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
     -->
 </p>
 
