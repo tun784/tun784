@@ -329,7 +329,7 @@
         <img src="https://randommeme-five.vercel.app" align="left" width="384" height=auto/>
     </a>
     <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia" align="right" style="max-width: 100%;"/>
+        <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia" align="right" width="422" height=auto/>
     </a>
 </p>
 <!--
