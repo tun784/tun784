@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+<!--
 <head>
     <title>My Profile</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-color: #0D1117; /* Set your desired background color */
-            color: #E6EDF3; /* Set text color for better readability */
+            background-color: #0D1117;
+            color: #E6EDF3;
         }
     </style>
     
 </head>
-
+-->
 <body>
 <div align="center" id="badges">
     <p id="header" align="center">
