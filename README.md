@@ -310,13 +310,13 @@
     <img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="left" width="384" height=auto/>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="419" height=auto/>
 </p>
-
+<!--
 <br><br><br>
 <blockquote>
 <p dir="auto">
     <strong>Attention</strong>  You haven't followed me yet</p>
 </blockquote>
-
+-->
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
         <picture>
