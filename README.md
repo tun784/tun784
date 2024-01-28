@@ -331,6 +331,9 @@
     <a href="https://github.com/PiyushSuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia" align="right"/>
     </a>
+    <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" align="right"  width="422" height=auto/>
+    </a>
 </p>
 <!--
 <br><br><br>
