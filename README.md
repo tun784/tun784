@@ -326,10 +326,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right"/>
     </a>
     <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
-        <img src="https://randommeme-five.vercel.app" align="left"/>
+        <img src="https://randommeme-five.vercel.app" align="left" width="384" height=auto/>
     </a>
     <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" align="right" width="422" height=auto/>
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" align="right"/>
     </a>
 </p>
 <!--
