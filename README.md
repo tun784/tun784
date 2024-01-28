@@ -294,20 +294,11 @@
     <img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="left" width="384" height=auto/>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="419" height=auto/>
 </p>
+
 <br><br><br>
 <blockquote>
-    <p dir="auto">
-        <em>
-            <span class="color-fg-attention">
-                <svg class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-                    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z">
-                    </path>
-                </svg>
-                Attention:
-            </span>
-            You've not followed me yet
-        </em>
-    </p>
+<p dir="auto">
+    <strong>Attention</strong>  You haven't followed me yet</p>
 </blockquote>
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
