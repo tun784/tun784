@@ -138,7 +138,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
     </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
@@ -249,14 +249,20 @@
         <a href="https://wakatime.com/@tun784">
             <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&layuout=compact" alt="Waka Time" width="400" height=auto/>
         </a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&layout=pie" alt="Top Languages" width="290"/>
+        <a href="https://gh-stats-gen.vercel.app/">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&layout=pie" alt="Top Languages" width="290"/>
+        </a>
     <!-- &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
+        <a href="github-profile-summary-cards.vercel.app">
+            <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
+        </a>
         <!--
         <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
         <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=tokyonight" alt="Streak" />
         -->
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
+        <a href="https://gh-stats-gen.vercel.app">
+            <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
+        </a>
     <!--
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=algolia" alt="Repositories per Language">
     -->
