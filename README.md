@@ -44,7 +44,7 @@
 <ul>
     <li>👋 Welcome to my <em><a href="https://github.com" style="text-decoration: none;">GitHub</a></em> profile.</li>
     <li>💻 I also have a <code><a href="https://gitlab.com/users/tun784/groups" style="text-decoration: none; color:aqua">GitLab</a></code> account.</li>
-    <li>🎓 I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam" style="color:red">Socialist Republic of Vietnam</a></strong>.</li>
+    <li>🎓 I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Socialist Republic of Vietnam</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;">
