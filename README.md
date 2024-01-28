@@ -8,7 +8,7 @@
 <body>
 <div align="center" id="badges">
     <p id="header" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
     </p> 
 </div>
 
