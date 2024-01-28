@@ -17,7 +17,9 @@
 <body>
 <div align="center" id="badges">
     <p id="header" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
+        </a>
     </p> 
 </div>
 
@@ -30,7 +32,9 @@
 </p>
 
 <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
+    </a>
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
     </a>
@@ -48,7 +52,9 @@
 </ul>
 
 <p align="left" style="direction: rtl;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=300&height=50&lines=🌐+Social+networks" alt="Social networks"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=300&height=50&lines=🌐+Social+networks" alt="Social networks"/>
+    </a>
 </p>
 
 <p align="left">
@@ -242,7 +248,9 @@
     <!--
     <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">
     -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=My+Github+Stats;Follow+me" width="710">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=5000&center=true&width=400&lines=My+Github+Stats;Follow+me" width="710">
+    </a>
 </p>
 
 <p dir="auto" style="direction: rtl;" align="center">
@@ -284,7 +292,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=4000&color=03F3FF&width=200&lines=Donate+me!;Support+me!"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=4000&color=03F3FF&width=200&lines=Donate+me!;Support+me!"/>
+    </a>
 </p>
 <p align="center">
     <a href="https://www.paypal.com/paypalme/nhtuan784">
