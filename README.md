@@ -299,7 +299,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=40&duration=4000&color=03F3FF&width=200&height=60&lines=Donate+me!;Support+me!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=40&duration=4000&color=03F3FF&width=210&height=60&lines=Donate+me!;Support+me!"/>
     </a>
 </p>
 <p align="center">
