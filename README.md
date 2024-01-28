@@ -34,10 +34,10 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
     </a>
+    <!--
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
     </a>
-    <!--
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="150" align="right" alt="Profile Views"/>
     </a>
@@ -262,10 +262,10 @@
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
     </a>
     <a href="https://wakatime.com/@tun784">
-        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" width="420"/>
+        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" height="380"/>
     </a>
     <a href="https://gh-stats-gen.vercel.app/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages" width="355"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages" height="380"/>
     </a>
     <!-- &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
     <a href="https://github-profile-summary-cards.vercel.app/demo.html">
