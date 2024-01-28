@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- <title>My Profile</title> -->
+    <title>My Profile</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: #0D1117; /* Set your desired background color */
+            color: #E6EDF3; /* Set text color for better readability */
+        }
+    </style>
+    
 </head>
 
 <body>
@@ -34,9 +41,9 @@
 </p>
 
 <ul>
-    <li>👋 Welcome to my <em><a href="https://github.com">GitHub</a></em> profile.</li>
-    <li>💻 I also have a <code><a href="https://gitlab.com/users/tun784/groups">GitLab</a></code> account.</li>
-    <li>🎓 I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam">Socialist Republic of Vietnam</a></strong>.</li>
+    <li>👋 Welcome to my <em><a href="https://github.com" style="text-decoration: none;">GitHub</a></em> profile.</li>
+    <li>💻 I also have a <code><a href="https://gitlab.com/users/tun784/groups" style="text-decoration: none; color:aqua">GitLab</a></code> account.</li>
+    <li>🎓 I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam" style="color:red">Socialist Republic of Vietnam</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;">
