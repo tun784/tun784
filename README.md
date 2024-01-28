@@ -262,10 +262,10 @@
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
     </a>
     <a href="https://wakatime.com/@tun784">
-        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" width="405"/>
+        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" width="415"/>
     </a>
     <a href="https://gh-stats-gen.vercel.app/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages" width="340"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages" width="350"/>
     </a>
     <!-- &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
     <a href="https://github-profile-summary-cards.vercel.app/demo.html">
