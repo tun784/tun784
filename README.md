@@ -253,7 +253,7 @@
 <p align="center" color="#03F3FF">
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=5000&center=true&width=900&lines=These+are+my+stats+on+Github;Click+to+find+credit+of+cards">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=31&duration=5000&center=true&width=900&lines=These+are+my+stats+on+Github;Click+to+find+credit+of+the+cards">
     </a>
 </p>
 
