@@ -134,8 +134,8 @@
     </a>
 </p>
 
-<a id="user-content--github-stats" href="#-github-stats">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+<a id="user-content--github-stats" href="#-stats">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
     </svg>
 </a>
