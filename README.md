@@ -15,22 +15,22 @@
 -->
 <body>
 <div align="center" id="badges">
-    <p id="header" align="center">
+    <p id="header" align="center" title="Click on it!">
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
             <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
         </a>
     </p> 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 
 <p dir="auto">
     <a href="https://maps.app.goo.gl/ESmQ6miDdXt668PA8">
-        <img width="410" src="https://user-images.githubusercontent.com/116370663/274942617-52598b64-2521-403f-a013-88a9b1fd34a8.png" align="right" alt="The Map of Socialist Republic of Vietnam">
+        <img width="410" src="https://user-images.githubusercontent.com/116370663/274942617-52598b64-2521-403f-a013-88a9b1fd34a8.png" align="right" alt="The Map of Socialist Republic of Vietnam" title="Paracel Islands and Spratly Islands belong to Vietnam">
     </a>
 </p>
 
-<p>
+<p title="Click on it!">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
     </a>
@@ -50,7 +50,7 @@
     <li>🎓 I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Socialist Republic of Vietnam</a></strong>.</li>
 </ul>
 
-<p align="left" style="direction: rtl;">
+<p align="left" style="direction: rtl;" title="Click on it!">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=Social+networks+🌐" alt="Social networks"/>
     </a>
@@ -95,7 +95,7 @@
     </a>
 </p>
 
-<p align="left" style="direction: rtl;">
+<p align="left" style="direction: rtl;" title="Click on it!">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=My+profiles" alt="My profile"/>
     </a>
@@ -134,10 +134,10 @@
     </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=03F3FF&center=true&width=700&lines=Programming+languages,+tools+and+softwares" alt="Programming languages, tools and software">
     </a>
 </p>
@@ -164,7 +164,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
     </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
     </a> 
     <!--
@@ -248,11 +248,11 @@
         <img width= "100%" src="https://media.licdn.com/dms/image/D4E22AQFeguh1o0HBBg/feedshare-shrink_800/0/1689754870426?e=1692835200&v=beta&t=JK7F9Dkgf2H9PQWLupwsEd1bLFBwpa5aW_VTvS3pIBs" width="400" alt="Machine Learning Operations (MLOps) - End-to-End Process"/>
 </p>
 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 
 <p align="center" color="#03F3FF">
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=31&duration=4000&center=true&width=900&lines=These+are+my+stats+on+Github;Click+to+find+credit+of+the+cards">
     </a>
 </p>
@@ -289,10 +289,10 @@
     -->
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=4000&color=03F3FF&width=440&lines=Donate+a+fund+for+me;Thanks+for+support+me"/>
     </a>
 </p>
@@ -312,7 +312,7 @@
     </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
@@ -325,11 +325,11 @@
 </article>
 
 <p align="auto" style="direction: rtl;">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="left"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="left" title="Click on it!"/>
     </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right" title="Click on it!"/>
     </a>
     <br><br>
     <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
