@@ -22,10 +22,8 @@
     </p> 
 </div>
 
-<a id="user-content--about" href="#-about">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-    </svg>
 </a>
 
 <p dir="auto">
@@ -35,8 +33,10 @@
 </p>
 
 <p title="Click on it!">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
+    <a id="user-content--about" href="#-about">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=150&height=45&lines=About+me" alt="About Me"/>
+        </svg>
     </a>
     <!--
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -49,9 +49,9 @@
 </p>
 
 <ul>
-    <li>👋 Welcome to my <em><a href="https://github.com" style="text-decoration: none;">GitHub</a></em> profile.</li>
-    <li>💻 I also have a <code><a href="https://gitlab.com/users/tun784/groups" style="text-decoration: none; color:aqua">GitLab</a></code> account.</li>
-    <li><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" height="20"> I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Socialist Republic of Vietnam</a></strong>.</li>
+    <li title="Github">👋 Welcome to my <em><a href="https://github.com" style="text-decoration: none;">GitHub</a></em> profile.</li>
+    <li title="Gitlab">💻 I also have a <code><a href="https://gitlab.com/users/tun784/groups" style="text-decoration: none; color:aqua">GitLab</a></code> account.</li>
+    <li title="Socialist Republic of Vietnam"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" height="20"> I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Socialist Republic of Vietnam</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;" title="Click on it!">
