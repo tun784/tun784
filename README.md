@@ -52,7 +52,7 @@
 
 <p align="left" style="direction: rtl;" title="Click on it!">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=Social+networks+🌐" alt="Social networks"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=Socials+🌐" alt="Social networks"/>
     </a>
 </p>
 
@@ -138,7 +138,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=03F3FF&center=true&width=700&lines=Programming+languages,+tools+and+softwares" alt="Programming languages, tools and software">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=03F3FF&center=true&width=700&lines=Languages+and+tools" alt="Languages, tools and software">
     </a>
 </p>
 
@@ -253,7 +253,7 @@
 <p align="center" color="#03F3FF">
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=31&duration=4000&center=true&width=900&lines=These+are+my+stats+on+Github;Click+to+find+credit+of+the+cards">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=31&duration=4000&center=true&width=900&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards">
     </a>
 </p>
 
