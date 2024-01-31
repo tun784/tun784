@@ -133,7 +133,8 @@
         <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="Codeforce" width="45" height="50" />
     </a>
 </p>
-<a id="user-content--github-stats" class="anchor" aria-hidden="true" tabindex="-1" href="#-github-stats">
+
+<a id="user-content--github-stats" href="#-github-stats">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
     </svg>
