@@ -52,7 +52,7 @@
 
 <p align="left" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=300&height=50&lines=🌐+Social+networks" alt="Social networks"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=Social+networks+🌐" alt="Social networks"/>
     </a>
 </p>
 
@@ -97,7 +97,7 @@
 
 <p align="left" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=true&width=300&height=50&lines=My+profiles" alt="My profile"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=My+profiles" alt="My profile"/>
     </a>
 </p>
 
@@ -293,7 +293,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=4000&color=03F3FF&width=450&lines=Donate+a+fund+for+me;Thanks+for+support+me"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=4000&color=03F3FF&width=440&lines=Donate+a+fund+for+me;Thanks+for+support+me"/>
     </a>
 </p>
 <p align="center">
