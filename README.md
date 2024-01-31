@@ -22,7 +22,11 @@
     </p> 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+<a id="user-content--about" href="#-about">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+    </svg>
+</a>
 
 <p dir="auto">
     <a href="https://maps.app.goo.gl/ESmQ6miDdXt668PA8">
@@ -134,7 +138,7 @@
     </a>
 </p>
 
-<a id="user-content--github-stats" href="#-github-stats">
+<a id="user-content--languages" href="#-languages">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
     </svg>
@@ -253,7 +257,12 @@
         <img width= "100%" src="https://media.licdn.com/dms/image/D4E22AQFeguh1o0HBBg/feedshare-shrink_800/0/1689754870426?e=1692835200&v=beta&t=JK7F9Dkgf2H9PQWLupwsEd1bLFBwpa5aW_VTvS3pIBs" width="400" alt="Machine Learning Operations (MLOps) - End-to-End Process"/>
 </p>
 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+
+<a id="user-content--github-stats" href="#-github-stats">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+    </svg>
+</a>
 
 <p align="center" color="#03F3FF">
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
@@ -294,7 +303,11 @@
     -->
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+<a id="user-content--donate" href="#-donate">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+    </svg>
+</a>
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
@@ -317,7 +330,11 @@
     </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+<a id="user-content--memes" href="#-memes">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+    </svg>
+</a>
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
