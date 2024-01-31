@@ -314,6 +314,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+    <themed-picture data-catalyst-inline="true" data-catalyst="">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+            <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+        </picture>
+    </themed-picture>
+</article>
+
 <p align="auto" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="left"/>
@@ -321,6 +331,7 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right"/>
     </a>
+    <br><br>
     <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
         <img src="https://randommeme-five.vercel.app" align="left" width="425" height=auto/>
     </a>
@@ -335,15 +346,6 @@
     <strong>Attention</strong>  You haven't followed me yet</p>
 </blockquote>
 -->
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-    <themed-picture data-catalyst-inline="true" data-catalyst="">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-            <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-        </picture>
-    </themed-picture>
-</article>
 <!--
 <p dir="auto" align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
