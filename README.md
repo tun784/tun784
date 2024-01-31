@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <!--
 <head>
     <title>My Profile on Github</title>
