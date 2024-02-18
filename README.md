@@ -161,19 +161,19 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
     </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/tun784/tun784/assets/116370663/7c8a9126-9178-42ac-b360-762cca11b245" alt="My SQL" width="50" height="50"/> 
-    </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> 
     </a>
+    <!--
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
     </a> 
     <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
     </a> 
-    <!--
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/tun784/tun784/assets/116370663/7c8a9126-9178-42ac-b360-762cca11b245" alt="My SQL" width="50" height="50"/> 
+    </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
     </a> 
