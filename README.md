@@ -76,9 +76,6 @@
     <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
         <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
-    <a href="https://twitter.com/_tun874">
-        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="Twitter">
-    </a>
     <a href="https://www.facebook.com/me">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
     </a>
