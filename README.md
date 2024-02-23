@@ -311,7 +311,7 @@
 <p align="center" title="Click on it!">
     <a id="user-content--donate" href="#-donate">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=03F3FF&center=true&width=470&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=03F3FF&center=true&width=570&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
         </svg>
     </a>
 </p>
