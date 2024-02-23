@@ -308,7 +308,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=4000&color=03F3FF&width=440&lines=Donate+a+fund+for+me;Thanks+for+support+me"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=4000&color=03F3FF&center=true&width=470&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
     </a>
 </p>
 <p align="center">
