@@ -147,7 +147,7 @@
 <p align="center" title="Languages, tools and software">
     <a id="user-content--languages" href="#-languages">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&color=03F3FF&center=true&width=700&lines=Languages+and+tools" alt="Languages, tools and software">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&color=03F3FF&center=true&width=700&height=60&lines=Languages+and+tools" alt="Languages, tools and software">
         </svg>
     </a>
 </p>
@@ -251,7 +251,7 @@
 </p>
 <!--
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=7000&color=03F3FF&width=780&lines=Machine+Learning+Operations+End-to-End+Process"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=7000&center=true&color=03F3FF&width=780&height=60&lines=Machine+Learning+Operations+End-to-End+Process"/>
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/mr-deepak-bhardwaj/">
@@ -267,7 +267,7 @@
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
     <a id="user-content--github-stats" href="#-github-stats">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=31&duration=4000&center=true&width=900&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&center=true&width=900&height=60&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards">
         </svg>
     </a>
 </p>
@@ -311,7 +311,7 @@
 <p align="center" title="Click on it!">
     <a id="user-content--donate" href="#-donate">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=03F3FF&center=true&width=570&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=39&duration=4000&color=03F3FF&center=true&width=600&height=65&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
         </svg>
     </a>
 </p>
