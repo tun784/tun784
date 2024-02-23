@@ -17,7 +17,7 @@
 <div align="center" id="badges">
     <p id="header" align="center" title="Click on it!">
         <a href="https://github.com/tun784">
-            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
         </a>
     </p> 
 </div>
@@ -35,7 +35,7 @@
 <p title="About me">
     <a id="user-content--about" href="#-about">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&size=27&duration=4000&center=false&width=150&height=45&lines=About+me" alt="About Me"/>
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=150&height=45&lines=About+me" alt="About Me"/>
         </svg>
     </a>
     <!--
@@ -57,7 +57,7 @@
 <p align="left" style="direction: rtl;" title="Social Networks">
     <a id="user-content--socials-networks" href="#-socials-networks">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&size=27&duration=4000&center=false&width=300&height=50&lines=Socials+🌐" alt="Social networks"/>
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=300&height=50&lines=Socials+🌐" alt="Social networks"/>
         </svg>
     </a>
 </p>
@@ -101,7 +101,7 @@
 <p align="left" style="direction: rtl;" title="My profiles">
     <a id="user-content--my-profiles" href="#-my-profiles">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&size=27&duration=4000&center=false&width=300&height=50&lines=My+profiles" alt="My profile"/>
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=300&height=50&lines=My+profiles" alt="My profile"/>
         </svg>
     </a>
 </p>
