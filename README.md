@@ -35,7 +35,7 @@
 <p title="About me">
     <a id="user-content--about" href="#-about">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=150&height=45&lines=About+me" alt="About Me"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=righteous&size=27&duration=4000&center=false&width=150&height=45&lines=About+me" alt="About Me"/>
         </svg>
     </a>
     <!--
@@ -57,7 +57,7 @@
 <p align="left" style="direction: rtl;" title="Social Networks">
     <a id="user-content--socials-networks" href="#-socials-networks">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=Socials+🌐" alt="Social networks"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=righteous&size=27&duration=4000&center=false&width=300&height=50&lines=Socials+🌐" alt="Social networks"/>
         </svg>
     </a>
 </p>
@@ -101,7 +101,7 @@
 <p align="left" style="direction: rtl;" title="My profiles">
     <a id="user-content--my-profiles" href="#-my-profiles">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=My+profiles" alt="My profile"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=righteous&size=27&duration=4000&center=false&width=300&height=50&lines=My+profiles" alt="My profile"/>
         </svg>
     </a>
 </p>
@@ -388,4 +388,4 @@
 </p>
 -->
 </body>
-</html>
+</html> 
