@@ -32,7 +32,7 @@
     </a>
 </p>
 
-<p title="Click on it!">
+<p title="About me">
     <a id="user-content--about" href="#-about">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
             <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=150&height=45&lines=About+me" alt="About Me"/>
@@ -54,9 +54,11 @@
     <li title="Socialist Republic of Vietnam"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" height="20"> I'm a <u>second-year</u> student at an university in <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Socialist Republic of Vietnam</a></strong>.</li>
 </ul>
 
-<p align="left" style="direction: rtl;" title="Click on it!">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=Socials+🌐" alt="Social networks"/>
+<p align="left" style="direction: rtl;" title="Social Networks">
+    <a id="user-content--socials-networks" href="#-socials-networks">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=Socials+🌐" alt="Social networks"/>
+        </svg>
     </a>
 </p>
 
@@ -96,9 +98,11 @@
     </a>
 </p>
 
-<p align="left" style="direction: rtl;" title="Click on it!">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=My+profiles" alt="My profile"/>
+<p align="left" style="direction: rtl;" title="My profiles">
+    <a id="user-content--my-profiles" href="#-my-profiles">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=F3FF00&center=false&width=300&height=50&lines=My+profiles" alt="My profile"/>
+        </svg>
     </a>
 </p>
 
@@ -135,16 +139,16 @@
     </a>
 </p>
 
-<a id="user-content--languages" href="#-languages">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-    </svg>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 </a>
 
 
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=03F3FF&center=true&width=700&lines=Languages+and+tools" alt="Languages, tools and software">
+<p align="center" title="Languages, tools and software">
+    <a id="user-content--languages" href="#-languages">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=27&duration=4000&color=03F3FF&center=true&width=700&lines=Languages+and+tools" alt="Languages, tools and software">
+        </svg>
     </a>
 </p>
 
@@ -255,16 +259,16 @@
 </p>
 -->
 
-<a id="user-content--github-stats" href="#-github-stats">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-    </svg>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 </a>
 
-<p align="center" color="#03F3FF">
+<p align="center" color="#03F3FF" title="Statistics">
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=31&duration=4000&center=true&width=900&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards">
+    <a id="user-content--github-stats" href="#-github-stats">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=31&duration=4000&center=true&width=900&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards">
+        </svg>
     </a>
 </p>
 
@@ -300,15 +304,15 @@
     -->
 </p>
 
-<a id="user-content--donate" href="#-donate">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-    </svg>
 </a>
 
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=4000&color=03F3FF&center=true&width=470&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
+<p align="center" title="Click on it!">
+    <a id="user-content--donate" href="#-donate">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+            <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=4000&color=03F3FF&center=true&width=470&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
+        </svg>
     </a>
 </p>
 <p align="center">
