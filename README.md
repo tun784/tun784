@@ -147,7 +147,7 @@
 <p align="center" title="Languages, tools and software">
     <a id="user-content--languages" href="#-languages">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=4000&color=03F3FF&center=true&width=700&lines=Languages+and+tools" alt="Languages, tools and software">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&color=03F3FF&center=true&width=700&lines=Languages+and+tools" alt="Languages, tools and software">
         </svg>
     </a>
 </p>
@@ -251,7 +251,7 @@
 </p>
 <!--
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=7000&color=03F3FF&width=780&lines=Machine+Learning+Operations+End-to-End+Process"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=7000&color=03F3FF&width=780&lines=Machine+Learning+Operations+End-to-End+Process"/>
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/mr-deepak-bhardwaj/">
@@ -311,7 +311,7 @@
 <p align="center" title="Click on it!">
     <a id="user-content--donate" href="#-donate">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=03F3FF&center=true&width=470&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=03F3FF&center=true&width=470&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
         </svg>
     </a>
 </p>
@@ -349,10 +349,10 @@
 
 <p align="auto" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="left" title="Click on it!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="left" title="Click on it!"/>
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right" title="Click on it!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right" title="Click on it!"/>
     </a>
     <br><br>
     <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
