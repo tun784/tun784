@@ -339,11 +339,13 @@
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-            <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-        </picture>
+        <a href="https://www.paypal.com/paypalme/nhtuan784">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+                <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+            </picture>
+        </a>
     </themed-picture>
 </article>
 
