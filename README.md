@@ -22,6 +22,50 @@
     </p> 
 </div>
 
+<p align="center" color="#03F3FF" title="Statistics">
+    <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
+    <a id="user-content--github-stats" href="#-github-stats">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&center=true&width=900&height=60&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards">
+        </svg>
+    </a>
+</p>
+
+<p dir="auto" align="center">
+    <a href="https://github-profile-summary-cards.vercel.app">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
+    </a>
+    <a href="https://wakatime.com/@tun784">
+        <img height="330" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" />
+    </a>
+    <a href="https://gh-stats-gen.vercel.app/">
+        <img height="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages"/>
+    </a>
+    <!-- &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
+    <a href="https://gh-stats-gen.vercel.app/">
+        <img height="190" src="https://github-readme-stats.vercel.app/api?username=tun784&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
+    </a>
+    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
+    </a>
+    <a href="https://gh-stats-gen.vercel.app/">
+        <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&amp;theme=algolia&amp;hide_border=true" alt="Streak">
+    </a>
+    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
+    </a>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tun784&amp;theme=react-dark" alt="Github activity graph">
+    </a>
+    <!--
+        <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
+        <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=tokyonight" alt="Streak" />
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=algolia" alt="Repositories per Language">
+        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
+        <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
+    -->
+</p>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 </a>
@@ -109,61 +153,15 @@
     -->
 </p>
 
-<p align="left" style="direction: rtl;" title="My Profiles">
-    <a id="user-content--my-profiles" href="#-my-profiles">
-        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=300&height=50&lines=My+Profiles" alt="My Profile"/>
-        </svg>
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.coursera.org/user/1ef3fa40dee335ebc46b89cd655dae07" target="_blank" rel="noreferrer">
-        <img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" alt="Coursera" width="50" height=50"/>
-    </a>
-    <a href="https://www.hackerrank.com/tun874" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50" height="50"/>
-    </a>
-    <a href="https://www.freecodecamp.org/tun874" target="_blank" rel="noreferrer">
-        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp" width="60" height="45"/>
-    </a>
-    <a href="https://www.codecademy.com/profiles/tun487" target="_blank" rel="noreferrer">
-        <img src="https://logos-download.com/wp-content/uploads/2019/11/Codecademy_Logo.png" alt="Codecademy" width="55" height="50"/>
-    </a>
-    <a href="https://www.datacamp.com/portfolio/tun874" target="_blank" rel="noreferrer">
-        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="DataCamp" width="50" height="50" />
-    </a>
-    <a href="https://stackoverflow.com/users/20314865/tuan784" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="50" height="50"/>
-    </a>
-    <a href="https://leetcode.com/Tuan784/" target="_blank" rel="noreferrer">
-        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="50" height="50" />
-    </a>
-    <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
-        <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="50" height="50"/>
-    </a>
-    <a href="https://codeforces.com/profile/TuanToMo874" target="_blank" rel="noreferrer">
-        <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="Codeforce" width="45" height="50" />
-    </a>
-</p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-</a>
-
-
-<p align="center" title="Languages, tools and software">
+<p align="left" style="direction: rtl;" title="Languages, tools and software">
     <a id="user-content--languages" href="#-languages">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&color=03F3FF&center=true&width=700&height=60&lines=Languages+and+tools" alt="Languages, tools and software">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&color=03F3FF&center=false&width=400&height=60&lines=Languages+and+tools" alt="Languages, tools and software">
         </svg>
     </a>
 </p>
 
-<p align="center">
+<p align="left" style="direction: rtl;">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> 
     </a> 
@@ -261,6 +259,51 @@
     -->
 </p>
 <!--
+<p align="left" style="direction: rtl;" title="My Profiles">
+    <a id="user-content--my-profiles" href="#-my-profiles">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=300&height=50&lines=My+Profiles" alt="My Profile"/>
+        </svg>
+    </a>
+</p>
+<p align="left">
+    <a href="https://www.coursera.org/user/1ef3fa40dee335ebc46b89cd655dae07" target="_blank" rel="noreferrer">
+        <img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" alt="Coursera" width="50" height=50"/>
+    </a>
+    <a href="https://www.hackerrank.com/tun874" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="50" height="50"/>
+    </a>
+    <a href="https://www.freecodecamp.org/tun874" target="_blank" rel="noreferrer">
+        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp" width="60" height="45"/>
+    </a>
+    <a href="https://www.codecademy.com/profiles/tun487" target="_blank" rel="noreferrer">
+        <img src="https://logos-download.com/wp-content/uploads/2019/11/Codecademy_Logo.png" alt="Codecademy" width="55" height="50"/>
+    </a>
+    <a href="https://www.datacamp.com/portfolio/tun874" target="_blank" rel="noreferrer">
+        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="DataCamp" width="50" height="50" />
+    </a>
+    <a href="https://stackoverflow.com/users/20314865/tuan784" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Over Flow" width="50" height="50"/>
+    </a>
+    <a href="https://leetcode.com/Tuan784/" target="_blank" rel="noreferrer">
+        <img src="https://super9.space/wp-content/uploads/2022/01/leetcode.png" alt="LeetCode" width="50" height="50"/>
+    </a>
+    <a href="https://www.w3profile.com/tuntomo874" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="W3Schools" width="50" height="50" />
+    </a>
+    <a href="https://codelearn.io/profile/4857935" target="_blank" rel="noreferrer"> 
+        <img src="https://racevietnam.com/Thumbnail/ExtraLarge/Upload/20200907/3bb89da6a7dcd3709ef76586f9c28b98_1.png" alt="Code Learn" width="50" height="50"/>
+    </a>
+    <a href="https://codeforces.com/profile/TuanToMo874" target="_blank" rel="noreferrer">
+        <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="Codeforce" width="45" height="50" />
+    </a>
+</p>
+-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+</a>
+
+<!--
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=7000&center=true&color=03F3FF&width=780&height=60&lines=Machine+Learning+Operations+End-to-End+Process"/>
 </p>
@@ -269,55 +312,6 @@
         <img width= "100%" src="https://media.licdn.com/dms/image/D4E22AQFeguh1o0HBBg/feedshare-shrink_800/0/1689754870426?e=1692835200&v=beta&t=JK7F9Dkgf2H9PQWLupwsEd1bLFBwpa5aW_VTvS3pIBs" width="400" alt="Machine Learning Operations (MLOps) - End-to-End Process"/>
 </p>
 -->
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-</a>
-
-<p align="center" color="#03F3FF" title="Statistics">
-    <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
-    <a id="user-content--github-stats" href="#-github-stats">
-        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&center=true&width=900&height=60&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards">
-        </svg>
-    </a>
-</p>
-
-<p dir="auto" style="direction: rtl;" align="center">
-    <a href="https://github-profile-summary-cards.vercel.app">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
-    </a>
-    <a href="https://wakatime.com/@tun784">
-        <img height="330" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" />
-    </a>
-    <a href="https://gh-stats-gen.vercel.app/">
-        <img height="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages"/>
-    </a>
-    <!-- &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
-    <a href="https://gh-stats-gen.vercel.app/">
-        <img height="190" src="https://github-readme-stats.vercel.app/api?username=tun784&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
-    </a>
-    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
-    </a>
-    <a href="https://gh-stats-gen.vercel.app/">
-        <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&amp;theme=algolia&amp;hide_border=true" alt="Streak&#39;s Streak">
-    </a>
-    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
-    </a>
-    <!--
-        <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
-        <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=tokyonight" alt="Streak" />
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=algolia" alt="Repositories per Language">
-        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
-        <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
-    -->
-</p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-</a>
 
 <p align="center" title="Click on it!">
     <a id="user-content--donate" href="#-donate">
