@@ -79,7 +79,7 @@
 <p title="About me">
     <a id="user-content--about" href="#-about">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=150&height=45&lines=About+me;About+me;Thông+tin+về+tôi;Thông+tin+về+tôi" alt="About Me"/>
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=150&height=45&lines=About+me;About+me;Thông+tin;Thông+tin" alt="About Me"/>
         </svg>
     </a>
     <a href="https://wakatime.com/@f229e779-047e-4bcc-9fe8-5b9d89b2fd06">
@@ -156,7 +156,7 @@
 <p align="left" style="direction: rtl;" title="Languages, tools and software">
     <a id="user-content--languages" href="#-languages">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&color=03F3FF&center=false&width=400&height=60&lines=Languages+and+tools;Languages+and+tools;Ngôn+ngữ+và+công+cụ+mà+tôi+đã+và+đang+học;Ngôn+ngữ+và+công+cụ+mà+tôi+đã+và+đang+học" alt="Languages, tools and software">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&color=03F3FF&center=false&width=400&height=60&lines=Languages+and+tools;Languages+and+tools;Ngôn+ngữ+và+công+cụ;Ngôn+ngữ+và+công+cụ" alt="Languages, tools and software">
         </svg>
     </a>
 </p>
@@ -359,7 +359,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme;Random+Dev+Meme;Meme+IT+ngẫu+nhiên;Meme+IT+ngẫu+nhiên" alt="Random Dev Meme" align="left" title="Click on it!"/>
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+ngẫu+nhiên;Trích+dẫn+ngẫu+nhiên" alt="Random Dev Quote" align="right" title="Click on it!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+IT+ngẫu+nhiên;Trích+dẫn+IT+ngẫu+nhiên" alt="Random Dev Quote" align="right" title="Click on it!"/>
     </a>
     <br><br>
     <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
