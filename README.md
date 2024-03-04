@@ -17,16 +17,16 @@
 <div align="center" id="badges">
     <p id="header" align="center" title="Click on it!">
         <a href="https://github.com/tun784">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!;I'm+Tuan+from+Vietnam;I'm+a+second-year+student;Great+to+meet+you+here!;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="I'm a second-year student"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+second-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
         </a>
-    </p> 
+    </p>
 </div>
 
 <p align="center" color="#03F3FF" title="Statistics">
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
     <a id="user-content--github-stats" href="#-github-stats">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&center=true&width=900&height=60&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&center=true&width=900&height=60&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards;Đây+là+số+liệu+thống+kê+của+tôi+trên+Github;Nhấp+từng+thẻ+bên+dưới+để+tìm+nguồn+lấy+thẻ">
         </svg>
     </a>
 </p>
@@ -79,7 +79,7 @@
 <p title="About me">
     <a id="user-content--about" href="#-about">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=150&height=45&lines=About+me" alt="About Me"/>
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=150&height=45&lines=About+me;About+me;Thông+tin+về+tôi;Thông+tin+về+tôi" alt="About Me"/>
         </svg>
     </a>
     <a href="https://wakatime.com/@f229e779-047e-4bcc-9fe8-5b9d89b2fd06">
@@ -104,7 +104,7 @@
 <p align="left" style="direction: rtl;" title="Social Networks">
     <a id="user-content--socials-networks" href="#-socials-networks">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=300&height=50&lines=Socials+Networks+🌐" alt="Social networks"/>
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=300&height=50&lines=Socials+Networks+🌐;Socials+Networks+🌐;Mạng+xã+hội+🌐;Mạng+xã+hội+🌐" alt="Social networks"/>
         </svg>
     </a>
 </p>
@@ -156,7 +156,7 @@
 <p align="left" style="direction: rtl;" title="Languages, tools and software">
     <a id="user-content--languages" href="#-languages">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&color=03F3FF&center=false&width=400&height=60&lines=Languages+and+tools" alt="Languages, tools and software">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&color=03F3FF&center=false&width=400&height=60&lines=Languages+and+tools;Languages+and+tools;Ngôn+ngữ+và+công+cụ+mà+tôi+đã+và+đang+học;Ngôn+ngữ+và+công+cụ+mà+tôi+đã+và+đang+học" alt="Languages, tools and software">
         </svg>
     </a>
 </p>
@@ -262,7 +262,7 @@
 <p align="left" style="direction: rtl;" title="My Profiles">
     <a id="user-content--my-profiles" href="#-my-profiles">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=300&height=50&lines=My+Profiles" alt="My Profile"/>
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=300&height=50&lines=My+Profiles;My+Profiles;Những+hồ+sơ+của+tôi;Những+hồ+sơ+của+tôi" alt="My Profile"/>
         </svg>
     </a>
 </p>
@@ -316,7 +316,7 @@
 <p align="center" title="Click on it!">
     <a id="user-content--donate" href="#-donate">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=39&duration=4000&color=03F3FF&center=true&width=600&height=65&lines=Donate+a+fund+for+me;Thanks+for+supporting+me"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=39&duration=4000&color=03F3FF&center=true&width=600&height=65&lines=Donate+a+fund+for+me;Thanks+for+supporting+me;Hãy+donate+cho+tôi;Xin+cảm+ơn+đã+donate+cho+tôi"/>
         </svg>
     </a>
 </p>
@@ -356,10 +356,10 @@
 
 <p align="auto" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme" alt="Random Dev Meme" align="left" title="Click on it!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme;Random+Dev+Meme;Meme+IT+ngẫu+nhiên;Meme+IT+ngẫu+nhiên" alt="Random Dev Meme" align="left" title="Click on it!"/>
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" align="right" title="Click on it!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+ngẫu+nhiên;Trích+dẫn+ngẫu+nhiên" alt="Random Dev Quote" align="right" title="Click on it!"/>
     </a>
     <br><br>
     <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
