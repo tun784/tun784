@@ -38,6 +38,9 @@
             <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&duration=4000&center=false&width=150&height=45&lines=About+me" alt="About Me"/>
         </svg>
     </a>
+    <a href="https://wakatime.com/@f229e779-047e-4bcc-9fe8-5b9d89b2fd06">
+        <img src="https://wakatime.com/badge/user/f229e779-047e-4bcc-9fe8-5b9d89b2fd06.svg" alt="Total time coded since Jul 28 2023" align="right"/>
+    </a>
     <!--
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
