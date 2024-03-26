@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html>
 <!--
 <head>
     <title>My Profile on Github</title>
@@ -17,7 +17,7 @@
 <div align="center" id="badges">
     <p id="header" align="center" title="Click on it!">
         <a href="https://github.com/tun784">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=38&duration=4000&color=0BBE00&center=true&vCenter=true&width=700&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+second-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=20&duration=4000&color=0BBE00&center=true&vCenter=true&width=800&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+second-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
         </a>
     </p>
 </div>
@@ -26,14 +26,14 @@
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
     <a id="user-content--github-stats" href="#-github-stats">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&center=true&width=900&height=60&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards;Đây+là+số+liệu+thống+kê+của+tôi+trên+Github;Nhấp+từng+thẻ+bên+dưới+để+tìm+nguồn+lấy+thẻ">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&center=true&width=550&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards;Đây+là+số+liệu+thống+kê+của+tôi+trên+Github;Nhấp+từng+thẻ+bên+dưới+để+tìm+nguồn+lấy+thẻ">
         </svg>
     </a>
 </p>
 
 <p dir="auto" align="center">
-    <a href="https://github-profile-summary-cards.vercel.app">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+        <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun784&amp;theme=react-dark" alt="Github activity graph">
     </a>
     <a href="https://wakatime.com/@tun784">
         <img height="330" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" />
@@ -54,8 +54,8 @@
     <a href="https://github-profile-summary-cards.vercel.app/demo.html">
         <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
     </a>
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tun784&amp;theme=react-dark" alt="Github activity graph">
+    <a href="https://github-profile-summary-cards.vercel.app">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
     </a>
     <!--
         <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
