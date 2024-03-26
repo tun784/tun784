@@ -17,7 +17,7 @@
 <div align="center" id="badges">
     <p id="header" align="center" title="Click on it!">
         <a href="https://github.com/tun784">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=25&duration=4000&color=0BBE00&center=true&vCenter=true&width=900&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+second-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=25&duration=4000&color=0BBE00&center=true&vCenter=true&width=900&height=25&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+second-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
         </a>
     </p>
 </div>
@@ -26,7 +26,7 @@
     <!-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> -->
     <a id="user-content--github-stats" href="#-github-stats">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=4000&center=true&width=450&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards;Đây+là+số+liệu+thống+kê+của+tôi+trên+Github;Nhấp+từng+thẻ+bên+dưới+để+tìm+nguồn+lấy+thẻ">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=4000&center=true&width=450&height=35&lines=These+are+my+statistics+on+Github;Click+to+find+credit+of+the+cards;Đây+là+số+liệu+thống+kê+của+tôi+trên+Github;Nhấp+từng+thẻ+bên+dưới+để+tìm+nguồn+lấy+thẻ">
         </svg>
     </a>
 </p>
