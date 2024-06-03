@@ -359,7 +359,7 @@
 
 <p align="auto" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=280&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+ngẫu+nhiên;Trích+dẫn+ngẫu+nhiên" alt="Random Dev Quote" align="right" title="Click on it!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=280&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+ngẫu+nhiên;Trích+dẫn+ngẫu+nhiên" alt="Random Dev Quote" title="Click on it!"/>
     </a>
     <!--
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
@@ -368,7 +368,7 @@
     -->
     <br><br>
     <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia" align="right" width="285" height=auto/>
+        <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia" width="285" height=auto/>
     </a>
     <!--
     <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
