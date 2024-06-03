@@ -110,8 +110,8 @@
 </p>
 
 <p align="left">
-    <a href="https://gitlab.com/tun784">
-        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+    <a href="https://www.facebook.com/me">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
     </a>
     <a href="https://steamcommunity.com/id/tuan78/">
         <img src="https://img.shields.io/badge/Steam-133367?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam">
@@ -119,13 +119,16 @@
     <a href="https://www.reddit.com/user/tuan784">
         <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit">
     </a>
-    <a href="https://www.tumblr.com/tuan784">
+    <a href="https://www.pinterest.com/tun784">
+        <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest">
+    </a>
+    <a href="https://www.tumblr.com/tun874">
         <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
     </a>
-    <a href="https://www.facebook.com/me">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
+    <!--    
+    <a href="https://gitlab.com/tun784">
+        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
     </a>
-    <!--
     <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
         <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
@@ -356,18 +359,22 @@
 
 <p align="auto" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme;Random+Dev+Meme;Meme+IT+ngẫu+nhiên;Meme+IT+ngẫu+nhiên" alt="Random Dev Meme" align="left" title="Click on it!"/>
-    </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
         <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=280&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+ngẫu+nhiên;Trích+dẫn+ngẫu+nhiên" alt="Random Dev Quote" align="right" title="Click on it!"/>
     </a>
-    <br><br>
-    <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
-        <img src="https://randommeme-five.vercel.app" align="left" width="425" height=auto/>
+    <!--
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme;Random+Dev+Meme;Meme+IT+ngẫu+nhiên;Meme+IT+ngẫu+nhiên" alt="Random Dev Meme" align="left" title="Click on it!"/>
     </a>
+    -->
+    <br><br>
     <a href="https://github.com/PiyushSuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia" align="right" width="285" height=auto/>
     </a>
+    <!--
+    <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
+        <img src="https://randommeme-five.vercel.app" align="left" width="425" height=auto/>
+    </a>
+    -->
 </p>
 <!--
 <br><br><br>
