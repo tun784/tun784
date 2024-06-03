@@ -357,7 +357,7 @@
     </themed-picture>
 </article>
 
-<p align="auto" style="direction: rtl;">
+<p align="center" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
         <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=280&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+ngẫu+nhiên;Trích+dẫn+ngẫu+nhiên" alt="Random Dev Quote" title="Click on it!"/>
     </a>
