@@ -99,7 +99,7 @@
     <li>👋 Welcome to my <em><a href="https://github.com" style="text-decoration: none;">GitHub</a></em> profile.</li>
     <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Hello,"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" height="20"></a> I'm a <u>second-year</u> student in an <strong><a href="https://huit.edu.vn" style="text-decoration:none; color:red">university</a></strong> in Socialist Republic of <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Vietnam</a></strong>.</li>
     <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Firstly,"><img src="https://cdn.icon-icons.com/icons2/1194/PNG/512/1490886306-20-graduation_82484.png" width="25" height="20"></a> I want to be an <a href="https://www.linkedin.com/in/me"><code>intern</code></a>.</li>
-    <li>I have <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_0_blue-512.png" width="13" height="15" alt="0"></a> years of programming experience, here's my <strong><a href="https://github.com/tun784?tab=repositories">projects</a></strong>.</li>
+    <li>I have <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_0_blue-512.png" width="14" height="14" alt="0"></a> years of programming experience, here's my <strong><a href="https://github.com/tun784?tab=repositories">projects</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;" title="Social Networks">
@@ -126,12 +126,15 @@
     <a href="https://www.tumblr.com/tun874">
         <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
     </a>
+    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
+        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
+    </a>
+    <a href="https://discord.com/users/510458900114440203">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
+    </a>
     <!--    
     <a href="https://gitlab.com/tun784">
         <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
-    </a>
-    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
-        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
@@ -145,10 +148,7 @@
     <a href="https://t.me/TunToMo">
         <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
     </a>
-    <a href="https://discord.com/users/510458900114440203">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
-    </a>
-    <a href="mailto:">
+    <a href="mailto:thudientu782004@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://github.io" target="_blank">
