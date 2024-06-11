@@ -325,9 +325,6 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://www.paypal.com/paypalme/nhtuan784">
-        <img src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404_1280.png" width="190" alt="Paypal"/>
-    </a>
     <a href="https://patreon.com/user?u=21920896">
         <img src="https://i0.wp.com/aliceincosplayland.com/wp-content/uploads/2023/06/6021970442adc50004f0aa7c.png?fit=340%2C190&ssl=1" width="180" alt="Patreon" />
     </a>
