@@ -111,41 +111,41 @@
 
 <p align="left">
     <a href="https://www.facebook.com/me">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" title="Facebook">
     </a>
     <a href="https://steamcommunity.com/id/tuan78/">
-        <img src="https://img.shields.io/badge/Steam-133367?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam">
+        <img src="https://img.shields.io/badge/Steam-133367?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam" title="Steam">
     </a>
     <a href="https://www.reddit.com/user/tuan784">
-        <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit">
+        <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit" title="Reddit">
     </a>
     <a href="https://www.pinterest.com/tun784">
-        <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest">
+        <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest" title="Pinterest">
     </a>
     <a href="https://www.tumblr.com/tun874">
-        <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr">
+        <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr" title="Tumblr">
     </a>
     <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
-        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat">
+        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat" title="Wechat">
     </a>
     <a href="https://discord.com/users/510458900114440203">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" title="Discord">
     </a>
     <!--    
     <a href="https://gitlab.com/tun784">
-        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" title="GitLab">
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube" title="Youtube">
     </a>
     <a href="https://www.tiktok.com/@comradevn">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" title="TikTok">
     </a>
     <a href="https://www.linkedin.com/in/tuannh87">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn">
     </a>
     <a href="https://t.me/TunToMo">
-        <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" title="Telegram">
     </a>
     <a href="mailto:thudientu782004@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -325,13 +325,13 @@
 </p>
 <p align="center">
     <a href="https://patreon.com/user?u=21920896">
-        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXgY-fLBjZZ9Im0tHX8H11e0F68VxTVGBnjCw8v-C4XXCqw9c_" height="60" alt="Patreon" />
+        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXgY-fLBjZZ9Im0tHX8H11e0F68VxTVGBnjCw8v-C4XXCqw9c_" height="60" alt="Patreon" title="Donate me!" />
     </a>
     <a href="https://buymeacoffee.com/tun784">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me a Coffee"/>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me a Coffee" title="Donate me!"/>
     </a>
     <a href="https://ko-fi.com/tuntomo">
-        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" alt="Ko-fi"/>
+        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" alt="Ko-fi" title="Donate me!"/>
     </a>
 </p>
 
@@ -343,11 +343,11 @@
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
-        <a href="https://blog.arnabghosh.me/add-github-dark-snake-animation-readme">
+        <a href="https://github.com/Platane/snk">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-                <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+                <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;" title="github.com/Platane/snk">
             </picture>
         </a>
     </themed-picture>
@@ -355,7 +355,7 @@
 
 <p align="center" style="direction: rtl;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=280&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+ngẫu+nhiên;Trích+dẫn+ngẫu+nhiên" alt="Random Dev Quote" title="Click on it!"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=280&height=45&lines=Random+Dev+Quote;Random+Dev+Quote;Trích+dẫn+ngẫu+nhiên;Trích+dẫn+ngẫu+nhiên" alt="Random Quote" title="Click on it!"/>
     </a>
     <!--
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
