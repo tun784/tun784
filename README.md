@@ -1,7 +1,7 @@
 <!--
-<!DOCTYPE html>
-<html>
-
+<!DOCTYPE html> -->
+<html> 
+<!--
 <head>
     <title>My Profile on Github</title>
     <meta charset="UTF-8">
