@@ -327,7 +327,6 @@
     <a href="https://patreon.com/user?u=21920896">
         <img src="https://i0.wp.com/aliceincosplayland.com/wp-content/uploads/2023/06/6021970442adc50004f0aa7c.png?fit=340%2C190&ssl=1" width="180" alt="Patreon" />
     </a>
-    <br>
     <a href="https://buymeacoffee.com/tun784">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me a Coffee"/>
     </a>
