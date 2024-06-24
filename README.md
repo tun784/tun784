@@ -98,8 +98,8 @@
 <ul>
     <li>👋 Welcome to my <em><a href="https://github.com" style="text-decoration: none;">GitHub</a></em> profile.</li>
     <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Hello,"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" height="20"></a> I'm a <u>second-year</u> student in an <strong><a href="https://huit.edu.vn" style="text-decoration:none; color:red">university</a></strong> in Socialist Republic of <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Vietnam</a></strong>.</li>
-    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Firstly,"><img src="https://cdn.icon-icons.com/icons2/1194/PNG/512/1490886306-20-graduation_82484.png" width="25" height="20"></a> I want to be an <a href="https://www.linkedin.com/in/me"><code>intern</code></a>.</li>
-    <li>I have <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_0_blue-512.png" width="14" height="14" alt="0"></a> years of programming experience, here's my <strong><a href="https://github.com/tun784?tab=repositories">projects</a></strong>.</li>
+    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Firstly,"><img src="https://cdn.icon-icons.com/icons2/1194/PNG/512/1490886306-20-graduation_82484.png" width="25" height="20"></a> I want to be an <a href="https://www.linkedin.com/in/me"><code>intern</code></a> to gain more new knowledge and experience.</li>
+    <li>I have <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_0_blue-512.png" width="14" height="14" alt="0"></a> years of programming experience, here's my <strong><a href="https://github.com/tun784?tab=repositories&q=&type=public&language=&sort=">projects</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;" title="Social Networks">
