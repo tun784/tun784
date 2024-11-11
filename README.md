@@ -123,7 +123,7 @@
     <a href="https://www.pinterest.com/tun784">
         <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest" title="Pinterest">
     </a>
-    <a href="https://www.tumblr.com/tun874">
+    <a href="https://www.tumblr.com/tuntomo">
         <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr" title="Tumblr">
     </a>
     <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
