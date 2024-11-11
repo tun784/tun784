@@ -328,7 +328,7 @@
     <a href="https://patreon.com/user?u=21920896">
         <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXgY-fLBjZZ9Im0tHX8H11e0F68VxTVGBnjCw8v-C4XXCqw9c_" height="60" alt="Patreon" title="Donate me!" />
     </a>
-    <a href="https://buymeacoffee.com/tun784">
+    <a href="https://buymeacoffee.com/tuntomo">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me a Coffee" title="Donate me!"/>
     </a>
     <a href="https://ko-fi.com/tuntomo">
