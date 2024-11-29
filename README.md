@@ -120,32 +120,29 @@
     <a href="https://www.reddit.com/user/tuan784">
         <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit" title="Reddit">
     </a>
-    <!--   
-    <a href="https://www.pinterest.com/tun784">
-        <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest" title="Pinterest">
-    </a>
-    <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
-        <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat" title="Wechat">
-    </a>
-    <a href="https://discord.com/users/510458900114440203">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" title="Discord">
-    </a> 
-    <a href="https://gitlab.com/tun784">
-        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" title="GitLab">
-    </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube" title="Youtube">
     </a>
-    <a href="https://www.tiktok.com/@comradevn">
+    <!--   
+    <a href="https://www.pinterest.com/">
+        <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest" title="Pinterest">
+    </a>
+    <a href="https://discord.com/users/">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" title="Discord">
+    </a> 
+    <a href="https://gitlab.com/">
+        <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" title="GitLab">
+    </a>
+    <a href="https://www.tiktok.com/">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" title="TikTok">
     </a>
-    <a href="https://www.linkedin.com/in/tuannh87">
+    <a href="https://www.linkedin.com/in/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn">
     </a>
-    <a href="https://t.me/TunToMo">
+    <a href="https://t.me/">
         <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" title="Telegram">
     </a>
-    <a href="mailto:thudientu782004@gmail.com">
+    <a href="mailto:gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://github.io" target="_blank">
