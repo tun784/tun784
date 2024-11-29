@@ -120,19 +120,16 @@
     <a href="https://www.reddit.com/user/tuan784">
         <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit" title="Reddit">
     </a>
+    <!--   
     <a href="https://www.pinterest.com/tun784">
         <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest" title="Pinterest">
-    </a>
-    <a href="https://www.tumblr.com/tuntomo">
-        <img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&amp;logo=tumblr&amp;logoColor=white" alt="Tumblr" title="Tumblr">
     </a>
     <a href="https://u.wechat.com/kAHBHob0q3rkCs273--3exQ">
         <img src="https://img.shields.io/badge/Wechat-09B83E?style=for-the-badge&amp;logo=Wechat&amp;logoColor=white" alt="Wechat" title="Wechat">
     </a>
     <a href="https://discord.com/users/510458900114440203">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" title="Discord">
-    </a>
-    <!--    
+    </a> 
     <a href="https://gitlab.com/tun784">
         <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" title="GitLab">
     </a>
