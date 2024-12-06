@@ -325,7 +325,7 @@
     <a href="https://buymeacoffee.com/tuntomo">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me a Coffee" title="Donate me!"/>
     </a>
-    <a href="https://ko-fi.com/tuntomo">
+    <a href="https://ko-fi.com/coconutomo">
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" alt="Ko-fi" title="Donate me!"/>
     </a>
 </p>
