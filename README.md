@@ -117,13 +117,13 @@
     <a href="https://steamcommunity.com/id/tuan78/">
         <img src="https://img.shields.io/badge/Steam-133367?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam" title="Steam">
     </a>
-    <a href="https://www.reddit.com/user/tuan784">
-        <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit" title="Reddit">
-    </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube" title="Youtube">
     </a>
     <!--   
+    <a href="https://www.reddit.com/user/">
+        <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit" title="Reddit">
+    </a>
     <a href="https://www.pinterest.com/">
         <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest" title="Pinterest">
     </a>
