@@ -329,12 +329,12 @@
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" alt="Ko-fi" title="Donate me!"/>
     </a>
 </p>
--->
 <a id="user-content--memes" href="#-memes">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
     </svg>
 </a>
+-->
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
