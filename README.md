@@ -16,7 +16,7 @@
 <div align="center" id="badges">
     <p id="header" align="center" title="Click on it!">
         <a href="https://github.com/tun784">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=25&duration=4000&color=0BBE00&center=true&vCenter=true&width=900&height=25&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+third-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&color=0BBE00&center=true&vCenter=true&width=900&height=25&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+third-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
         </a>
     </p>
 </div>
