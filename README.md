@@ -34,13 +34,10 @@
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
         <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun784&amp;theme=react-dark" alt="Github activity graph">
     </a>
-    <a href="https://wakatime.com/@tun784">
-        <img height="330" src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" />
-    </a>
-    <a href="https://gh-stats-gen.vercel.app/">
+    <!-- <a href="https://gh-stats-gen.vercel.app/">
         <img height="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages"/>
     </a>
-    <!-- &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
+    &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
     <a href="https://gh-stats-gen.vercel.app/">
         <img height="190" src="https://github-readme-stats.vercel.app/api?username=tun784&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
     </a>
@@ -55,6 +52,9 @@
     </a>
     <a href="https://github-profile-summary-cards.vercel.app">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
+    </a>
+    <a href="https://wakatime.com/@tun784">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" />
     </a>
     <!--
         <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
