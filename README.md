@@ -247,12 +247,15 @@
         <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="Codeforce" width="45" height="50" />
     </a>
 </p>
+<img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun6944&theme=algolia&row=2&column=4" alt="Trophy" />
+    <a href="https://github-profile-summary-cards.vercel.app">
+        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun6944&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
+    </a>
 -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 </a>
 <p dir="auto" align="center">
-    <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun6944&theme=algolia&row=2&column=4" alt="Trophy" />
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
         <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun6944&amp;theme=react-dark" alt="Github activity graph">
     </a>
@@ -262,9 +265,6 @@
     </a>
     <a href="https://github-profile-summary-cards.vercel.app">
     <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun6944&theme=algolia" alt="Repositories per Language">
-    </a>
-    <a href="https://github-profile-summary-cards.vercel.app">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun6944&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
     </a>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tun6944&theme=algolia&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
     <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116370663" target="_blank" style="display: block" align="center">
