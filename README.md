@@ -275,16 +275,6 @@
     </a>
 </p>
 
-<p>
-    <a href="https://www.star-history.com/?repos=tun6944%2FViT_Coffee_Leaves_Diseases%2CJohnyyd%2FDoAnTotNghiep%2Ctiao051%2FViolence-Detection&type=date&legend=top-left">
-     <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=tun6944/ViT_Coffee_Leaves_Diseases%2CJohnyyd/DoAnTotNghiep%2Ctiao051/Violence-Detection&type=date&theme=dark&legend=top-left" />
-       <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=tun6944/ViT_Coffee_Leaves_Diseases%2CJohnyyd/DoAnTotNghiep%2Ctiao051/Violence-Detection&type=date&legend=top-left" />
-       <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=tun6944/ViT_Coffee_Leaves_Diseases%2CJohnyyd/DoAnTotNghiep%2Ctiao051/Violence-Detection&type=date&legend=top-left" />
-     </picture>
-    </a>
-</p>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 </a>
